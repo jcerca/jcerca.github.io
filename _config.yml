@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "José Cerca / Evolutionary biology"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
