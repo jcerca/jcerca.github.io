@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "José Cerca / Evolutionary Genomics"
+title                    : "José Cerca - Evolutionary Genomics"
 title_separator          : "-"
 name                     : &name "José Cerca"
 description              : &description "Evolutionary Genomics"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : @cryptic_omics
 facebook:
   username               :
   app_id                 :
