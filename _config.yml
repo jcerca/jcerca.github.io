@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "José Cerca - Evolutionary Genomics"
 title_separator          : "-"
 name                     : &name "José Cerca"
-description              : &description "Evolutionary Genomics"
+description              : &description "Evolutionary biologist"
 url                      : https://jcerca.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jcerca/jcerca.github.io"
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "José Cerca"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Welcome! I am an evolutionary biologist and I study how biodiversity evolves. I use genomic tools, that is, 'big-data-genetics' to answer questions related to the evolution and responce of biodiversity. I am currently affiliated at the University of Oslo and (visiting) UC-Berkeley."
+  location         : "Berkeley, CA"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "https://scholar.google.pt/citations?user=ZI1vWPEAAAAJ&hl=en"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Jose_Cerca"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/jcerca?tab=repositories"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "https://www.instagram.com/evolvecerca/"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/0000-0001-7788-4367"
+  orcid            : "https://orcid.org/0000-0001-7788-4367"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "cryptic_omics"
   vine             :
   weibo            :
   xing             :
