@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Evolutionary Biologist 
+Hi! I am José Cerca, an evolutionary biologist. I am currently a visiting scholar at the Evolab in UC-Berkeley(https://nature.berkeley.edu/evolab/).
 Welcome to my personal webpage. Here
 
 
