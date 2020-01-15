@@ -103,7 +103,7 @@ Talks  (c - conference, d - department seminar)
 5. **c J. Cerca**, T.H. Struck – Four ways to be cryptic – ForBio annual meeting
 4. **c J. Cerca**, T.H. Struck – Cryptic species at the crossroads of systematics, ecology, evolutionary biology and paleobiology – 19th Young Systematics Forum
 3. **c J. Cerca de Oliveira**, C. Meyer, G. Purschke, T. H. Struck - The enigmatic case of morphological stasis in the marine annelid Stygocapitella subterranea: biogeographical and morphological evidence – VI ForBio Annual Meeting
-2. **c** S. Leal, J. Vieira, J. Cerca de Oliveira, J. Gričar, I. Chaves, C. Miguel - A proteomic approach to the study of the phenology of cambial activity in Larix decídua – Eurodendro (International Scientific Conference on Dendrochronology Climate and Human History in the Mediterranean Basin)
+2. **c** S. Leal, J. Vieira, **J. Cerca de Oliveira**, J. Gričar, I. Chaves, C. Miguel - A proteomic approach to the study of the phenology of cambial activity in Larix decídua – Eurodendro (International Scientific Conference on Dendrochronology Climate and Human History in the Mediterranean Basin)
 1. **c J. Cerca de Oliveira**, A. Agudo, I. Alvaréz, S. Castro, A. Afonso, R. Torices - Don’t count your chickens before they hatch: Pollinator attraction, female reproductive success and fitness consequences of rayed and rayless phenotypes – IV Congreso Ibérico de Ecología
 
   
