@@ -3,11 +3,11 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks & posters"
-    url: /talks/    
+  - title: "News"
+    url: /news/    
 
-  - title: "News & Views"
-    url: /year-archive/
+  - title: "Useful links (genomics, evolutionary biolology)"
+    url: /links/
     
   - title: "CV"
     url: /cv/
