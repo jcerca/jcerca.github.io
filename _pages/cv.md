@@ -90,23 +90,21 @@ Publications
 ======
 Please see the [publications tab](https://jcerca.github.io/publications/)
   
-Invited Talks
+Invited Talks (c - conference, d - department seminar)
 ======
-**c** - conference; **d** - department seminar
-3. **d** **J. Cerca**, T.H. Struck Cryptic species in Evolutionary Biology and Systematics - California Academy of Sciences, SF-USA
-2. **d** **J. Cerca**, T.H. Struck Cryptic as evolutionary phenomena - Uppsala, Sweden
-1. **c** **J. Cerca**, C. Meyer, G. Purschke, T.H. Struck Perhaps not so cosmopolitan. Biogeographical evidence, incidence of cryptic species, population connectivity and evidence of morphological stasis in the interstitial annelid *Stygocapitella subterranea* – BioSyst.EU Meeting - Gothenburg, Sweden
+3. **d J. Cerca**, T.H. Struck Cryptic species in Evolutionary Biology and Systematics - California Academy of Sciences, SF-USA
+2. **d J. Cerca**, T.H. Struck Cryptic as evolutionary phenomena - Uppsala, Sweden
+1. **c J. Cerca**, C. Meyer, G. Purschke, T.H. Struck Perhaps not so cosmopolitan. Biogeographical evidence, incidence of cryptic species, population connectivity and evidence of morphological stasis in the interstitial annelid *Stygocapitella subterranea* – BioSyst.EU Meeting - Gothenburg, Sweden
 
-Talks
+Talks  (c - conference, d - department seminar)
 ======
-**c** - conference; **d** - department seminar
-8.**c** **J. Cerca**, T.H. Struck Sequencing ghosts: how genomics is helping us understand biological diversity and solve the cryptic species problem – EMPSEB (European Meeting PhD Student in Evolutionary Biology) **c**
-7.**c** **J. Cerca**, M. Ravinet, J. Catchen, A. Rivera-Colón, T.H. Struck – New Tools for Old Problems: Population Genomics and Biogeographical Inference of the Stygocapitella subterranea Cryptic Species Complex (Annelida: Parergodrillidae) – GIGA iii (Global Invertebrate Genomics Alliance)
-5. **c** **J. Cerca**, T.H. Struck – Four ways to be cryptic – ForBio annual meeting
-4. **c** **J. Cerca**, T.H. Struck – Cryptic species at the crossroads of systematics, ecology, evolutionary biology and paleobiology – 19th Young Systematics Forum
-3. **c** **J. Cerca de Oliveira**, C. Meyer, G. Purschke, T. H. Struck - The enigmatic case of morphological stasis in the marine annelid Stygocapitella subterranea: biogeographical and morphological evidence – VI ForBio Annual Meeting
+8. **c J. Cerca**, T.H. Struck Sequencing ghosts: how genomics is helping us understand biological diversity and solve the cryptic species problem – EMPSEB (European Meeting PhD Student in Evolutionary Biology) **c**
+7. **c J. Cerca**, M. Ravinet, J. Catchen, A. Rivera-Colón, T.H. Struck – New Tools for Old Problems: Population Genomics and Biogeographical Inference of the Stygocapitella subterranea Cryptic Species Complex (Annelida: Parergodrillidae) – GIGA iii (Global Invertebrate Genomics Alliance)
+5. **c J. Cerca**, T.H. Struck – Four ways to be cryptic – ForBio annual meeting
+4. **c J. Cerca**, T.H. Struck – Cryptic species at the crossroads of systematics, ecology, evolutionary biology and paleobiology – 19th Young Systematics Forum
+3. **c J. Cerca de Oliveira**, C. Meyer, G. Purschke, T. H. Struck - The enigmatic case of morphological stasis in the marine annelid Stygocapitella subterranea: biogeographical and morphological evidence – VI ForBio Annual Meeting
 2. **c** S. Leal, J. Vieira, J. Cerca de Oliveira, J. Gričar, I. Chaves, C. Miguel - A proteomic approach to the study of the phenology of cambial activity in Larix decídua – Eurodendro (International Scientific Conference on Dendrochronology Climate and Human History in the Mediterranean Basin)
-1. **c** **J. Cerca de Oliveira**, A. Agudo, I. Alvaréz, S. Castro, A. Afonso, R. Torices - Don’t count your chickens before they hatch: Pollinator attraction, female reproductive success and fitness consequences of rayed and rayless phenotypes – IV Congreso Ibérico de Ecología
+1. **c J. Cerca de Oliveira**, A. Agudo, I. Alvaréz, S. Castro, A. Afonso, R. Torices - Don’t count your chickens before they hatch: Pollinator attraction, female reproductive success and fitness consequences of rayed and rayless phenotypes – IV Congreso Ibérico de Ecología
 
   
 Teaching and supervision
@@ -185,4 +183,3 @@ Service and leadership
 * 2019 - Student proposal reviewer for "Research Excellence Grants - R.C. Lewontin Early Award" Society for the Study of Evolution (33 proposals reviewed)
 * 2018 - Grant reviewer for the “Marie Skłodowska-Curie Fellowships training program and potential hosts”, ForBio (5 proposals reviewed)
 * 2018 - Student proposal reviewer for "Research Excellence Grants - R.C. Lewontin Early Award" Society for the Study of Evolution (33 proposals reviewed)
-
