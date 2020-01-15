@@ -1,9 +1,10 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 ---
+
 
 Education
 ======
