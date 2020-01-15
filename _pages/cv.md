@@ -5,8 +5,6 @@ permalink: /cv/
 author_profile: true
 ---
 
-{% include base_path %}
-
 Education
 ======
 * B.S. in Biology, University of Coimbra (Final grade: 16/20), 2012
