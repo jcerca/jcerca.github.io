@@ -5,6 +5,8 @@ permalink: /cv/
 author_profile: true
 ---
 
+element {
+  font-size: 75;
 
 Education
 ======
@@ -183,3 +185,5 @@ Service and leadership
 * 2019 - Student proposal reviewer for "Research Excellence Grants - R.C. Lewontin Early Award" Society for the Study of Evolution (33 proposals reviewed)
 * 2018 - Grant reviewer for the “Marie Skłodowska-Curie Fellowships training program and potential hosts”, ForBio (5 proposals reviewed)
 * 2018 - Student proposal reviewer for "Research Excellence Grants - R.C. Lewontin Early Award" Society for the Study of Evolution (33 proposals reviewed)
+
+}
