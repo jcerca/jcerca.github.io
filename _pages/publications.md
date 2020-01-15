@@ -9,10 +9,10 @@ author_profile: true
 
 In preparation, on bioRxiv, or submitted
 ------
-Z. Admixture and parallel evolution in TTT-fish - in review at Molecular Ecology (co-first author)
-Y. Comparative genomics of spider genomes unsheds light on color-gene evolution - *in prep for Molecular Biology and Evolution* (co-first author)
-X. Incomplete lineage sorting may explain morphological similarity in the *Stygocapitella* cryptic species complex - *in prep* (first author) 
-W. Removing the 'bad-apples', a simple bioinformatic procedure to - in prep for *Molecular Ecology Resources* (senior author)
+4. Admixture and parallel evolution in TTT-fish - in review at Molecular Ecology (co-first author)
+3. Comparative genomics of spider genomes unsheds light on color-gene evolution - *in prep for Molecular Biology and Evolution* (co-first author)
+2. Incomplete lineage sorting may explain morphological similarity in the *Stygocapitella* cryptic species complex - *in prep* (first author) 
+1. Removing the 'bad-apples', a simple bioinformatic procedure to - in prep for *Molecular Ecology Resources* (senior author)
 
 Peer-reviewed
 ------
