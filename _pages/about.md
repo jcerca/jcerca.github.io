@@ -4,9 +4,10 @@ title: "Welcome!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
-  - /about/
   - /about.html
 ---
+
+
 
 I am an evolutionary biologist, currently a visiting scholar (post-doc) at the [Berkeley Evolab in UC-Berkeley](https://nature.berkeley.edu/evolab/). I am awaiting for my PhD's viva which will happen in June at the University of Oslo where I was part of the [Frontiers in Evolutionary Zoology research group](https://www.nhm.uio.no/english/about/organization/research-collections/?vrtx=unit-view&areacode=280808&lang=en).
 
