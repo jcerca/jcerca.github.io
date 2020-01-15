@@ -6,7 +6,7 @@ main:
   - title: "News"
     url: /news/    
 
-  - title: "Useful links (genomics, evolutionary biolology)"
+  - title: "Tutorials and useful links"
     url: /links/
     
   - title: "CV"
