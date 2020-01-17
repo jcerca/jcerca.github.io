@@ -38,4 +38,4 @@ Evolutionary Biology
 
 Career-oriented
 ------
-* Still figuring out what to put here..
+* Establishing a laboratory book [for new PIs](https://twitter.com/samuelmehr/status/1139733291899080705)
