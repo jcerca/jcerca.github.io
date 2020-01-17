@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.pt/citations?user=ZI1vWPEAAAAJ&hl=en"
-  email            :
+  email            : 
   researchgate     : "https://www.researchgate.net/profile/Jose_Cerca"
   uri              :
   bitbucket        :
@@ -99,7 +99,7 @@ author:
   github           : "jcerca?tab=repositories"
   google_plus      :
   keybase          :
-  instagram        : "evolvecerca/"
+  instagram        : "evolvecerca"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
