@@ -21,6 +21,7 @@ Population Genomics
 * List of programs in populations genomics [using genomic-level data](http://methodspopgen.com/)
 * List of tutorials included [Evomics course on Speciation and Population Genomics 2016 and 2018 tutorials - including ABBA-BABA, FasSimCoal, PCA, STRUCTURE](http://evomics.org/learning/population-and-speciation-genomics/)
 * SNP-filtering tutorial [by Jonathan Puritz](https://www.ddocent.com/filtering/)
+* Book on population genomics with [code and exercises](https://link.springer.com/book/10.1007/978-1-0716-0199-0)
 
 Comparative Genomics
 ------
