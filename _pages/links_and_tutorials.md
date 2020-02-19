@@ -38,6 +38,11 @@ Evolutionary Biology
 ------
 * Still figuring out what to put here..
 
+Data Visualization (R, python)
+------
+Pathwork, an interesting way to [combine plots](https://patchwork.data-imaginist.com/)
+Something I want to explore better, [plotly for R and python](https://plot.ly/r/)
+
 Career-oriented
 ------
 * Establishing a laboratory book [for new PIs](https://twitter.com/samuelmehr/status/1139733291899080705)
