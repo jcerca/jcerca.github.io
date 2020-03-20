@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-(Updated 14/02/2020)
+(Updated 20/03/2020)
 
 General genomics (sequencing, lib prep, extraction)
 ------
@@ -33,6 +33,7 @@ Phylogenomics
 ------
 * List of tutorials on phylogenetic inference [by Michael Matschiner](https://github.com/mmatschiner/tutorials)
 * Tutorials on phylogenomics included in the [Evomics course 2016 and 2018 tutorials](http://evomics.org/learning/phylogenetics/)
+* Really good [tree handling and plotting examples](https://yulab-smu.github.io/treedata-book/)
 
 Evolutionary Biology
 ------
