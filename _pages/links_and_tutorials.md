@@ -43,6 +43,10 @@ RNA-Seq
 * RNA-Seq [tutorial](https://github.com/crazyhottommy/rnaseq_tutorial)
 * RNA-Seq ['genome browser'](http://xena.ucsc.edu/welcome-to-ucsc-xena/)
 
+Methylation
+------
+* Comprehensive list of DNA-Methylation[methods, tools, pitfalls, tutorials, pipelines, packages](https://github.com/crazyhottommy/DNA-methylation-analysis)
+
 Evolutionary Biology
 ------
 * Still figuring out what to put here..
