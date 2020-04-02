@@ -36,6 +36,10 @@ Phylogenomics
 * Tutorials on phylogenomics included in the [Evomics course 2016 and 2018 tutorials](http://evomics.org/learning/phylogenetics/)
 * Really good [tree handling and plotting examples](https://yulab-smu.github.io/treedata-book/)
 
+RNA-Seq
+-------
+* Mind-blowing list of RNA-seq [methods, tools, pitfalls, tutorials, pipelines, packages](https://github.com/crazyhottommy/RNA-seq-analysis)
+
 Evolutionary Biology
 ------
 * Still figuring out what to put here..
