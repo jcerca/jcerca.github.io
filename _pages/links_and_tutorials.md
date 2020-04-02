@@ -10,6 +10,7 @@ author_profile: true
 
 General genomics (sequencing, lib prep, extraction)
 ------
+* [Excellent tutorials on all forms of genomics](https://bioinformaticsworkbook.org/)
 * [Info on Pacbio's Sequel II](https://www.pacb.com/wp-content/uploads/Overview-Sequel-Systems-Application-Options-and-Sequencing-Recommendations.pdf)
 * [Extracting long-read DNA for Pacbio](https://extractdnaforpacbio.com/)
 * Starting with Genomics, unix and programming? Look no further, Ming Tang has compiled [a comprehensive list of resources](https://github.com/crazyhottommy/getting-started-with-genomics-tools-and-resources)
@@ -25,11 +26,14 @@ Population Genomics
 * SNP-filtering tutorial [by Jonathan Puritz](https://www.ddocent.com/filtering/)
 * Book on population genomics with [code and exercises](https://link.springer.com/book/10.1007/978-1-0716-0199-0)
 * Have not yet tested, but maybe a practical way to [run D-statistics from a VCF](https://www.biorxiv.org/content/10.1101/634477v2)
+* Variant-calling [tutorial](https://bioinformaticsworkbook.org/dataAnalysis/VariantCalling/variant-calling-index)
 
 Comparative Genomics
 ------
+* Comprative genomics [tutorials](https://bioinformaticsworkbook.org/dataAnalysis/ComparativeGenomics/compGenomics_index)
 * Long-read sequencer [comparison](https://github.com/rrwick/Long-read-assembler-comparison)
 * CAFE tutorial [for gene family evolution](https://iu.app.box.com/v/cafetutorial-files)
+* [Repeat annotation](https://bioinformaticsworkbook.org/dataAnalysis/ComparativeGenomics/Repeats_index) in genomes
 
 Phylogenomics
 ------
@@ -42,6 +46,7 @@ RNA-Seq
 * Mind-blowing list of RNA-seq [methods, tools, pitfalls, tutorials, pipelines, packages](https://github.com/crazyhottommy/RNA-seq-analysis)
 * RNA-Seq [tutorial](https://github.com/crazyhottommy/rnaseq_tutorial)
 * RNA-Seq ['genome browser'](http://xena.ucsc.edu/welcome-to-ucsc-xena/)
+* RNA-Seq [tutorial](https://bioinformaticsworkbook.org/dataAnalysis/RNA-Seq/RNA-SeqIntro/RNAseq-intro)
 
 Methylation
 ------
