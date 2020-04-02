@@ -40,6 +40,8 @@ Phylogenomics
 RNA-Seq
 -------
 * Mind-blowing list of RNA-seq [methods, tools, pitfalls, tutorials, pipelines, packages](https://github.com/crazyhottommy/RNA-seq-analysis)
+* RNA-Seq [tutorial](https://github.com/crazyhottommy/rnaseq_tutorial)
+* RNA-Seq ['genome browser'](http://xena.ucsc.edu/welcome-to-ucsc-xena/)
 
 Evolutionary Biology
 ------
@@ -47,8 +49,9 @@ Evolutionary Biology
 
 Data Visualization (R, python)
 ------
-Pathwork, an interesting way to [combine plots](https://patchwork.data-imaginist.com/)
-Something I want to explore better, [plotly for R and python](https://plot.ly/r/)
+* Pathwork, an interesting way to [combine plots](https://patchwork.data-imaginist.com/)
+* Something I want to explore better, [plotly for R and python](https://plot.ly/r/)
+* The usual suspect, [ggplot2](http://t-redactyl.io/tag/ggplot2.html)
 
 Career-oriented
 ------
