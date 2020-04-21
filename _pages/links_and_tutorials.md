@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-(Updated 20/03/2020)
+(Updated 21/04/2020)
 
 General genomics (sequencing, lib prep, extraction)
 ------
@@ -34,6 +34,7 @@ Comparative Genomics
 * Long-read sequencer [comparison](https://github.com/rrwick/Long-read-assembler-comparison)
 * CAFE tutorial [for gene family evolution](https://iu.app.box.com/v/cafetutorial-files)
 * [Repeat annotation](https://bioinformaticsworkbook.org/dataAnalysis/ComparativeGenomics/Repeats_index) in genomes
+* Trying to estimate plody-level with the [GenomeScope-Smudgeplot combo](https://github.com/tbenavi1/genomescope2.0), but are getting weird results? [Kamil Jaron has a bunch to show you](https://kamilsjaron.github.io/peculiar-genomic-observations/)
 
 Phylogenomics
 ------
