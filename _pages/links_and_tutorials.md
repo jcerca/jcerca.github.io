@@ -10,7 +10,7 @@ author_profile: true
 
 General genomics (sequencing, lib prep, extraction)
 ------
-* [Excellent tutorials on all forms of genomics](https://bioinformaticsworkbook.org/)
+* [Excellent tutorials on every flavor of genomics](https://bioinformaticsworkbook.org/)
 * [Info on Pacbio's Sequel II](https://www.pacb.com/wp-content/uploads/Overview-Sequel-Systems-Application-Options-and-Sequencing-Recommendations.pdf)
 * [Extracting long-read DNA for Pacbio](https://extractdnaforpacbio.com/)
 * Starting with Genomics, unix and programming? Look no further, Ming Tang has compiled [a comprehensive list of resources](https://github.com/crazyhottommy/getting-started-with-genomics-tools-and-resources)
