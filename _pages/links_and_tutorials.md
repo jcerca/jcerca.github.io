@@ -36,6 +36,7 @@ Comparative Genomics
 * [Repeat annotation](https://bioinformaticsworkbook.org/dataAnalysis/ComparativeGenomics/Repeats_index) in genomes
 * Trying to estimate plody-level with the [GenomeScope-Smudgeplot combo](https://github.com/tbenavi1/genomescope2.0), but are getting weird results? [Kamil Jaron has a bunch to show you](https://kamilsjaron.github.io/peculiar-genomic-observations/)
 * Handling [GTF, GFF, GFF3 files](https://github.com/NBISweden/AGAT/)
+* How to [run and interpret OrthoFinder](https://davidemms.github.io/menu/tutorials.html)
 
 Phylogenomics
 ------
