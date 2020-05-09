@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-(Updated 21/04/2020)
+(Updated 09/05/2020)
 
 General genomics (sequencing, lib prep, extraction)
 ------
@@ -37,6 +37,7 @@ Comparative Genomics
 * Trying to estimate plody-level with the [GenomeScope-Smudgeplot combo](https://github.com/tbenavi1/genomescope2.0), but are getting weird results? [Kamil Jaron has a bunch to show you](https://kamilsjaron.github.io/peculiar-genomic-observations/)
 * Handling [GTF, GFF, GFF3 files](https://github.com/NBISweden/AGAT/)
 * How to [run and interpret OrthoFinder](https://davidemms.github.io/menu/tutorials.html)
+* Retrieving [Homologous Chromossomic regions](http://chibba.pgml.uga.edu/mcscan2) and [plotting it](http://synvisio.github.io)
 
 Phylogenomics
 ------
