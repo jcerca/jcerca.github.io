@@ -25,6 +25,7 @@ Work experience
   * Supervisor: Rosemary Gillespie
   * Duties: Laboratory work and population genomics
 
+
 Funding
 ======
 * UiO Internationalization fund (2019) ~5000 euros
@@ -42,6 +43,7 @@ Funding
 * Den Grevelige Hjelmstjerne-Rosencroneske Stiftelse ved Universitet i Oslo (2016)  ~1000 euros
 * The Brooks and Suzanne Ragen Endowed Scholarship supports graduate or undergraduate students who conduct research or attend a class at Friday Harbor Laboratories (2016) ~500 euros
 
+
 Awards
 ======
 * Best poster award at EMPSEB (European Meeting of PhD Students in Evolutionary Biology) (2019) ~500 euros
@@ -51,7 +53,12 @@ Awards
 * Top 3% student - Faculty for Science and Engineering, University of Coimbra (2014)
 * 4th best individual speak at the Portuguese National Debating Competition (2014)	
 
-  
+
+Funding as third party
+======
+* California Conservation Genomics Project (PI: Rosemary Gillespie). Role: Bioinformatician (2020) 50,000 USD
+
+
 Skills (including used tools)
 ======
 * Population genomics
@@ -85,10 +92,12 @@ Skills (including used tools)
   * Pollination Biology
   * Marine Invertebrate Biology
 
+
 Publications
 ======
 Please see the [publications tab](https://jcerca.github.io/publications/)
   
+
 Invited Talks (c - conference, d - department seminar)
 ======
 3. **d J. Cerca**, T.H. Struck Cryptic species in Evolutionary Biology and Systematics - California Academy of Sciences, SF-USA
