@@ -5,8 +5,8 @@ permalink: /news/
 author_profile: true
 ---
 
-
-* 08/05/2020 - Tune-in for my Spider Comparative Genomics talk on the [Virtual Genomics Social Hour (03/04/2020)](https://www.calacademy.org/virtual-genomic-social-hour)
+* 11/05/2020 - Our [California Conservation Genomics Project](https://johnmuir.ucdavis.edu/2019/09/25/california-conservation-genomics-program-species-nominations-now-open/) was funded. We will be looking at signatures of urban adaptation in a spider species across California!
+* 08/05/2020 - My Spider Comparative Genomics for the [Genomics Social Hour](https://www.calacademy.org/virtual-genomic-social-hour) is [online!](https://www.youtube.com/watch?time_continue=867&v=ZWeLy7fFumg&feature=emb_logo) (begins at 14:27)
 * 03/04/2020 - Tune-in for my RADseq methods talk on the Virtual Genomics Social Hour!
 * 04/2020 - Currently searching/applying for post-doctoral positions!
 * 03/2020 - The CalAcademy is organizing a [Virtual Genomics Social Hour](https://www.calacademy.org/virtual-genomic-social-hour)
