@@ -28,35 +28,39 @@ Work experience
 
 Funding
 ======
-* UiO Internationalization fund (2019) ~5000 euros
-* Peder Sather Grant program (Under Torsten Struck and Rosemary Gillespie; 2019) ~25000 euros
-* NORBIS international travel grant (2019) ~3000 euros
-* American Genetics Association Travel Award for the Global Invertebrate Genomics Alliance (2018) ~2000 euros
-* ESEB Godfrey Hewitt Mobility Award (2018) 1230 euros
-* Internationalization Support - UiO:Life Science to visit Julian Catchen at Illinois (2018) ~4500 euros
-* Erasmus + Training grant (opplæringsmobilitet) (2018) ~1000 euros
-* MatNat-Stipend (Travel funding) (2018) ~1000 euros
-* ForBio outgoing travel grants to the Population and Speciation Genomics course (2018) ~500 euros
-* Erasmus+ Training mobility grant (opplæringsmobilitet) (2017) 675 euros
-* Programming for Evolutionary Biology travel stipend (2017) ~500 euros
-* ForBio outgoing travel grants to visit Günter Purschke at the University of Osnabrück (2017) ~500 euros
-* Den Grevelige Hjelmstjerne-Rosencroneske Stiftelse ved Universitet i Oslo (2016)  ~1000 euros
-* The Brooks and Suzanne Ragen Endowed Scholarship supports graduate or undergraduate students who conduct research or attend a class at Friday Harbor Laboratories (2016) ~500 euros
+* 2019 - UiO Internationalization fund ~5,000 euros
+* 2019 - Peder Sather Grant program (Under Torsten Struck and Rosemary Gillespie;) ~25,000 euros
+* 2019 - NORBIS international travel grant ~3,000 euros
+* 2018 - American Genetics Association Travel Award for the Global Invertebrate Genomics Alliance ~2,000 euros
+* 2018 - ESEB Godfrey Hewitt Mobility Award 1,230 euros
+* 2018 - Internationalization Support - UiO:Life Science to visit Julian Catchen at Illinois ~4,500 euros
+* 2018 - Erasmus + Training grant (opplæringsmobilitet) ~1,000 euros
+* 2018 -  MatNat-Stipend (Travel funding) ~1,000 euros
+* 2018 - ForBio outgoing travel grants to the Population and Speciation Genomics course ~500 euros
+* 2017 - Erasmus+ Training mobility grant (opplæringsmobilitet) 675 euros
+* 2017 - Programming for Evolutionary Biology travel stipend ~500 euros
+* 2017 - ForBio outgoing travel grants to visit Günter Purschke at the University of Osnabrück ~500 euros
+* 2017 - Den Grevelige Hjelmstjerne-Rosencroneske Stiftelse ved Universitet i Oslo ~1,000 euros
+* 2016 - The Brooks and Suzanne Ragen Endowed Scholarship supports graduate or undergraduate students who conduct research or attend a class at Friday Harbor Laboratories ~500 euros
 
 
 Awards
 ======
-* Best poster award at EMPSEB (European Meeting of PhD Students in Evolutionary Biology) (2019) ~500 euros
-* PhD Photo Contest: #phdlifeMN (2018) iPad 9,7-inch, 32 GB, Wi-Fi
-* Best poster award at NORBIS' conference	(2017) ~50 euros
-* Best poster and speed presentation award at the ForBio meeting (2016) ~500 euros
-* Top 3% student - Faculty for Science and Engineering, University of Coimbra (2014)
-* 4th best individual speak at the Portuguese National Debating Competition (2014)	
+* 2019 - Best poster award at EMPSEB (European Meeting of PhD Students in Evolutionary Biology) ~500 euros
+* 2018 - PhD Photo Contest: #phdlifeMN iPad 9,7-inch, 32 GB, Wi-Fi
+* 2017 - Best poster award at NORBIS' conference	~50 euros
+* 2016 - Best poster and speed presentation award at the ForBio meeting ~500 euros
+* 2014 - Top 3% student - Faculty for Science and Engineering, University of Coimbra ~2,500 euros
+* 2014 - 4th best individual speak at the Portuguese National Debating Competition	
 
 
 Funding as third party
 ======
 * California Conservation Genomics Project (PI: Rosemary Gillespie). Role: Bioinformatician (2020) 50,000 USD
+
+Publications
+======
+Please see the [publications tab](https://jcerca.github.io/publications/)
 
 
 Skills (including used tools)
@@ -93,16 +97,12 @@ Skills (including used tools)
   * Marine Invertebrate Biology
 
 
-Publications
-======
-Please see the [publications tab](https://jcerca.github.io/publications/)
-  
-
 Invited Talks (c - conference, d - department seminar)
 ======
 3. **d J. Cerca**, T.H. Struck Cryptic species in Evolutionary Biology and Systematics - California Academy of Sciences, SF-USA
 2. **d J. Cerca**, T.H. Struck Cryptic as evolutionary phenomena - Uppsala, Sweden
 1. **c J. Cerca**, C. Meyer, G. Purschke, T.H. Struck Perhaps not so cosmopolitan. Biogeographical evidence, incidence of cryptic species, population connectivity and evidence of morphological stasis in the interstitial annelid *Stygocapitella subterranea* – BioSyst.EU Meeting - Gothenburg, Sweden
+
 
 Talks  (c - conference, d - department seminar)
 ======
@@ -132,24 +132,24 @@ Teaching and supervision
   * Shi Lin (BSc student, advisor, UC-Berkeley, 2019)
   * Kenzie Weiss-Mercord (BSc student, advisor, UC-Berkeley, 2019)
   * Marius Maurstad (BSc student, advisor, University of Oslo, 2019-2020)
-  * Isabel de Block (Msc student, co-advisor, University of Oslo, 2019-2021)
   * Stian Aleksander Helsem (Msc student, co-advisor, University of Oslo, 2019-2021)
   * Astrid Bang (Msc student, co-advisor, University of Oslo, 2018-2020)
   
 Relevant courses taken
 ======
 * Nature MasterClass: Writing for researchers (2019)
-* Winter School in Genome Assembly and Annotation (2018)
-* Workshop on Population and Speciation Genomics, Cesky Krumlov (2018)
-* Introduction to SnakeMake (2017)
-* Programming for Evolutionary Biology (2017)
-* An introduction to bioinformatic tools for metagenetic and population genomic data analysis (2016)
-* Software Carpentry Workshop (2016)
+* 2018 - Winter School in Genome Assembly and Annotation
+* 2018 - Workshop on Population and Speciation Genomics, Cesky Krumlov
+* 2017 - Introduction to SnakeMake
+* 2017 - Programming for Evolutionary Biology
+* 2016 - An introduction to bioinformatic tools for metagenetic and population genomic data analysis
+* 2016 - Software Carpentry Workshop
+
 
 Research stays abroad (>3months)
 ======
-* Blaxterlab: learning genome assembly and bioinformatics (University of Edinburgh, Mark Blaxter)
-* Catchenlab: learning radseq, bioinformatics and population genomics (University of Illinois at Urbana-Champaign, Julian Catchen)
+* 2019 - Blaxterlab: learning genome assembly and bioinformatics (University of Edinburgh, Mark Blaxter)
+* 2018 - Catchenlab: learning radseq, bioinformatics and population genomics (University of Illinois at Urbana-Champaign, Julian Catchen)
 
 Peer review activity (by year and journal)
 ======
@@ -157,6 +157,7 @@ Peer review activity (by year and journal)
 * 2019 - Systematics & Biodiversity (1 manuscript), Heredity (1 manuscript), 
 * 2018 - Zoologica Scripta (1 manuscript)
 * 2017 - Evolution (1 manuscript as student co-reviewer)
+
 
 Science communication
 ======
@@ -171,7 +172,8 @@ Science communication
 * 2017 - 20 articles in [De Rerum Natura](http://dererummundi.blogspot.com/)
 * 2015 - 1 article for the [Portuguese Association for Education in Evolutionary Biology](https://apbe.weebly.com/)
 
-Fieldwork (alone is signed with^)
+
+Fieldwork (alone in the field is signed with^)
 ======
 * 2018 - Vladivolstok, Primorsky Krai in Far-East Russia (collection of interstitial invertebrates - Stygocapitella)
 * 2018^ - Sylt, Germany (collection of interstitial invertebrates - Gnathostomulida)
