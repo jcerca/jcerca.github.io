@@ -56,7 +56,7 @@ Awards
 
 Funding as third party
 ======
-* California Conservation Genomics Project (PI: Rosemary Gillespie). Role: Bioinformatician (2020) 50,000 USD
+* California Conservation Genomics Project (PI: Rosemary Gillespie). Role: Bioinformatician (2020) 50,000 USD (submitted)
 
 Publications
 ======
