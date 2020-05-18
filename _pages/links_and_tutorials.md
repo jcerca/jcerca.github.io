@@ -58,7 +58,7 @@ Methylation
 
 Evolutionary Biology
 ------
-* Still figuring out what to put here..
+* Easily broken down [statistics for biologists!](https://www.nature.com/collections/qghhqm/pointsofsignificance)
 
 Data Visualization (R, python)
 ------
