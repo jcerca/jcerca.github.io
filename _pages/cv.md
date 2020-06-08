@@ -7,10 +7,10 @@ author_profile: true
 
 Education
 ======
-* B.S. in Biology, University of Coimbra (Final grade: 16/20), 2012
-* M.S. in Ecology, University of Coimbra (Final grade: 19/20), 2014
+* B.S. in Biology, University of Coimbra (Final grade: 16/20), 2012 (July 17th)
+* M.S. in Ecology, University of Coimbra (Final grade: 19/20), 2014 (July 11th)
   * Thesis title: Pollinator preferences in a hybrid zone
-* Ph.D. in Evolutionary Genomics and Zoology, University of Oslo, 2020 (expected - June 5th)
+* Ph.D. in Evolutionary Genomics and Zoology, University of Oslo, 2020 (June 5th)
   * Thesis title: On the origins of cryptic species: Insights from the Stygocapitella species complex
       
 Work experience
@@ -56,7 +56,7 @@ Awards
 
 Funding as third party
 ======
-* California Conservation Genomics Project (PI: Rosemary Gillespie). Role: Bioinformatician (2020) 50,000 USD (submitted)
+* California Conservation Genomics Project (PI: Rosemary Gillespie). Role: Bioinformatician (2020) 50,000 USD
 
 Publications
 ======
@@ -137,7 +137,7 @@ Teaching and supervision
   
 Relevant courses taken
 ======
-* Nature MasterClass: Writing for researchers (2019)
+* 2019 - Nature MasterClass: Writing for researchers
 * 2018 - Winter School in Genome Assembly and Annotation
 * 2018 - Workshop on Population and Speciation Genomics, Cesky Krumlov
 * 2017 - Introduction to SnakeMake
