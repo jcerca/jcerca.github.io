@@ -5,6 +5,7 @@ permalink: /news/
 author_profile: true
 ---
 
+* 25/06/2020 - the *last* paper of my PhD has been submitted. Fingers crossed!
 * 05/06/2020 - I successfuly defended my PhD, entitled "On The Origin of Cryptic Species".. now I need to find myself a job!
 * 29/05/2020 - My [Trial lecture is online](https://www.nhm.uio.no/english/research/events/disputations-and-trial-lectures/proveforeslesninger/triallecture_cerca-%281%29.mp4). These are 45-minute lectures on a topic related, but not necessarily overlapping with the candidate's PhD. I got "The relevance of undescribed species for science and society, and the potential for elucidation through genomics".
 * 29/05/2020 - Game on! My PhD defense [has been publicly announced](https://www.nhm.uio.no/english/research/events/disputations-and-trial-lectures/Oliveira.html). You'll be able to hear me live via zoom.
