@@ -51,6 +51,7 @@ RNA-Seq
 * RNA-Seq [tutorial](https://github.com/crazyhottommy/rnaseq_tutorial)
 * RNA-Seq ['genome browser'](http://xena.ucsc.edu/welcome-to-ucsc-xena/)
 * RNA-Seq [tutorial](https://bioinformaticsworkbook.org/dataAnalysis/RNA-Seq/RNA-SeqIntro/RNAseq-intro)
+* RNA-Seq [basics, and pipeline overview](https://rnaseq.uoregon.edu/)
 
 Methylation
 ------
