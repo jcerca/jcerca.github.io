@@ -23,12 +23,13 @@ Cryptic species are morphologically similar species. I did my PhD with [Torsten 
 
 Collaborators
 ----
-I am highly collaborative and I think my work would not be possible without the knowledge, support, kindness and patience of multiple individuals. Here are some people who are collaborators of mine:
-Nicolas Rochette, [UCLA](https://scholar.google.com/citations?user=DFqQtXgAAAAJ&hl=en) - RADseq genomics
-Julian Catchen, [UIUC](http://catchenlab.life.illinois.edu/)  - RADseq genomics
-Angel Rivera-Colón, [UIUC](http://catchenlab.life.illinois.edu/)  - RADseq genomics
+I am highly collaborative and I think my work would not be possible without the knowledge, support, kindness and patience of multiple individuals. Here are some people who are collaborators of mine (alphabetically by last name):
 Mark Blaxter, [Tree of Life project](https://www.sanger.ac.uk/person/blaxter-mark/) - Genome assembly and Annotation
-Mark Ravinet, [UoN](https://www.nottingham.ac.uk/research/groups/cells-organisms-and-molecular-genetics/people/mark.ravinet) - Collaboration with population & comparative genomics
-Joana Meier, [Cambridge](https://joanameier.ch/) - Collaboration with population genomics
+Julian Catchen, [UIUC](http://catchenlab.life.illinois.edu/)  - RADseq genomics
+Dimitar Dimitrov, [UiBergen](https://www.uib.no/en/persons/Dimitar.Dimitrov) - MacroEvolution & MacroEcology
 Rosa Fernandéz, [IBE Barcelona](https://rmfernandezgarcia0.wixsite.com/metazomics) - Collaboration on comparative genomics & genome annotation
+Joana Meier, [Cambridge](https://joanameier.ch/) - Collaboration with population genomics
+Mark Ravinet, [UoN](https://www.nottingham.ac.uk/research/groups/cells-organisms-and-molecular-genetics/people/mark.ravinet) - Collaboration with population & comparative genomics
+Angel Rivera-Colón, [UIUC](http://catchenlab.life.illinois.edu/)  - RADseq genomics
+Nicolas Rochette, [UCLA](https://scholar.google.com/citations?user=DFqQtXgAAAAJ&hl=en) - RADseq genomics
 Joel Vizueta, [UoBarcelona](https://scholar.google.com/citations?user=CTBqqSsAAAAJ&hl=en) - Collaboration on comparative genomics & genome annotation
