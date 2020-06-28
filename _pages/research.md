@@ -26,10 +26,12 @@ Collaborators
 I am highly collaborative and I think my work would not be possible without the knowledge, support, kindness and patience of multiple individuals. Here are some people who are collaborators of mine (alphabetically by last name):
 Mark Blaxter, [Tree of Life project](https://www.sanger.ac.uk/person/blaxter-mark/) - Genome assembly and Annotation
 Julian Catchen, [UIUC](http://catchenlab.life.illinois.edu/)  - RADseq genomics
-Dimitar Dimitrov, [UiBergen](https://www.uib.no/en/persons/Dimitar.Dimitrov) - MacroEvolution & MacroEcology
+Hugo de Boer, [University of Oslo](https://www.nhm.uio.no/english/about/organization/research-collections/people/hugode/) - Genomics
+Dimitar Dimitrov, [University in Bergen](https://www.uib.no/en/persons/Dimitar.Dimitrov) - MacroEvolution & MacroEcology
 Rosa Fernandéz, [IBE Barcelona](https://rmfernandezgarcia0.wixsite.com/metazomics) - Collaboration on comparative genomics & genome annotation
 Joana Meier, [Cambridge](https://joanameier.ch/) - Collaboration with population genomics
 Mark Ravinet, [UoN](https://www.nottingham.ac.uk/research/groups/cells-organisms-and-molecular-genetics/people/mark.ravinet) - Collaboration with population & comparative genomics
-Angel Rivera-Colón, [UIUC](http://catchenlab.life.illinois.edu/)  - RADseq genomics
+Angel Rivera-Colón, [UIUC](http://catchenlab.life.illinois.edu/) - RADseq genomics
 Nicolas Rochette, [UCLA](https://scholar.google.com/citations?user=DFqQtXgAAAAJ&hl=en) - RADseq genomics
+Rubén Torices, [Juan Carlos](https://rubentorices.wordpress.com/) - Ecology
 Joel Vizueta, [UoBarcelona](https://scholar.google.com/citations?user=CTBqqSsAAAAJ&hl=en) - Collaboration on comparative genomics & genome annotation
