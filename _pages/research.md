@@ -23,8 +23,7 @@ Cryptic species are morphologically similar species. I did my PhD with [Torsten 
 
 Collaborators
 ----
-My approach to research consists in mobility and collaboration, benefiting from the direct expertise of leaders in different research fields. This approach is highly cooperative, and is grounded on two ideas: "two brains think better than one" and I reach out to people with proven experience in a given topic, in an attempt to increase the quality of my publication. My work would thus not be possible without the knowledge, support, kindness and patience of multiple individuals.
-
+My approach to research consists in mobility and collaboration, benefiting from the direct expertise of leaders in different research fields, thus increasing the quality of my work and publications. This approach is highly cooperative, and is grounded on two ideas: "two brains think better than one" and "if you have worked in a topic for longer than I, it's likely that you have something to say about my ideas, result or approach". My work would thus not be possible without the knowledge, support, kindness and patience of multiple individuals.
 Here are some people who are collaborators of mine (alphabetically by last name):
   * [Mark Blaxter, Tree of Life project](https://www.sanger.ac.uk/person/blaxter-mark/) - Genome assembly and Annotation
   * [Julian Catchen, UIUC](http://catchenlab.life.illinois.edu/)  - RADseq genomics
