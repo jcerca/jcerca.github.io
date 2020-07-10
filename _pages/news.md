@@ -5,6 +5,7 @@ permalink: /news/
 author_profile: true
 ---
 
+* **10/07/2020 - I accepted a position in the Natural History Museum in Trondheim, with [Mike Martin](https://scholar.google.com/citations?hl=en&user=WosqmUMAAAAJ), to work with the [adaptive radiation of Galapagos Scalesia](https://prosjektbanken.forskningsradet.no/#/project/NFR/287327). I'll start on August 15th** 
 * 25/06/2020 - the *last* paper of my PhD has been submitted. Fingers crossed!
 * 05/06/2020 - I successfuly defended my PhD, entitled "On The Origin of Cryptic Species".. now I need to find myself a job!
 * 29/05/2020 - My [Trial lecture is online](https://www.nhm.uio.no/english/research/events/disputations-and-trial-lectures/proveforeslesninger/triallecture_cerca-%281%29.mp4). These are 45-minute lectures on a topic related, but not necessarily overlapping with the candidate's PhD. I got "The relevance of undescribed species for science and society, and the potential for elucidation through genomics".
