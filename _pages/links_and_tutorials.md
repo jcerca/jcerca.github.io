@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-(Updated 09/05/2020)
+(Updated 30/07/2020)
 
 General genomics (sequencing, lib prep, extraction)
 ------
@@ -15,6 +15,7 @@ General genomics (sequencing, lib prep, extraction)
 * [Extracting long-read DNA for Pacbio](https://extractdnaforpacbio.com/)
 * Starting with Genomics, unix and programming? Look no further, Ming Tang has compiled [a comprehensive list of resources](https://github.com/crazyhottommy/getting-started-with-genomics-tools-and-resources)
 * Sequence [file formats](https://snipcademy.com/sequence-file-formats)
+* Catalogue of [long-read tools](https://long-read-tools.org/analysis.html)
 
 Population Genomics
 ------
