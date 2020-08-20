@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-I am an evolutionary biologist with a background on ecology and genomics. During the last few years I have developed an interest in Evolution in Islands and in using Genomic tools to understand these.
+I am an evolutionary biologist with a background in ecology and genomics. During the last few years I have developed an interest in Evolution in Islands and in using Genomic tools to understand these.
 
 ### Island Evolution - *Tetragnatha* ### 
 I have been working with the Hawai'ian *Tetragnatha* adaptive radiation'i together with [Professor Rosemary Gillespie at Berkeley](https://nature.berkeley.edu/evolab/). These spiders have repeatedly evolved four ecomorphs in different islands ("green", which sits on leaves; "maroon", which is mostly on moss; "small brown", among twigs; and "large brown", on tree bark). Basically, an ecomorph "jumps" to a new island and re-evolves the remaining ecomorphs, as Hawai'ian Islands are created by volcanic activity.
