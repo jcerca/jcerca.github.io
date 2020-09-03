@@ -5,6 +5,7 @@ permalink: /news/
 author_profile: true
 ---
 
+* 01/09/2020 - See my first Rxiv paper: [Removing the bad apples: a simple bioinformatic method to improve loci-recovery in de novo RADseq data for non-model organisms](https://ecoevorxiv.org/47tka)
 * 17/08/2020 - First day at my new job in Trondheim!
 * **10/07/2020 - I accepted a position in the Natural History Museum in Trondheim, with [Mike Martin](https://scholar.google.com/citations?hl=en&user=WosqmUMAAAAJ), to work with the [adaptive radiation of Galapagos Scalesia](https://prosjektbanken.forskningsradet.no/#/project/NFR/287327). I'll start on August 15th** 
 * 25/06/2020 - the *last* paper of my PhD has been submitted. Fingers crossed!
