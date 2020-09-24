@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-(Updated 30/07/2020)
+(Updated 24/09/2020)
 
 General genomics (sequencing, lib prep, extraction)
 ------
@@ -28,6 +28,7 @@ Population Genomics
 * Book on population genomics with [code and exercises](https://link.springer.com/book/10.1007/978-1-0716-0199-0)
 * Have not yet tested, but maybe a practical way to [run D-statistics from a VCF](https://www.biorxiv.org/content/10.1101/634477v2)
 * Variant-calling [tutorial](https://bioinformaticsworkbook.org/dataAnalysis/VariantCalling/variant-calling-index)
+* Needing some help with [GATK for non-model organisms?](https://evodify.com/gatk-in-non-model-organism/)
 
 Comparative Genomics
 ------
