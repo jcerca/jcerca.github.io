@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-(Updated 24/09/2020)
+(Updated 11/10/2020)
 
 General genomics (sequencing, lib prep, extraction)
 ------
@@ -46,6 +46,7 @@ Phylogenomics
 * List of tutorials on phylogenetic inference [by Michael Matschiner](https://github.com/mmatschiner/tutorials)
 * Tutorials on phylogenomics included in the [Evomics course 2016 and 2018 tutorials](http://evomics.org/learning/phylogenetics/)
 * Really good [tree handling and plotting examples](https://yulab-smu.github.io/treedata-book/)
+* Phylogenies with vcftools? Maybe try [SNPphylo](http://chibba.pgml.uga.edu/snphylo/)
 
 RNA-Seq
 -------
