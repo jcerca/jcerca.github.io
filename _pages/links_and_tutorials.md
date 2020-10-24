@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-(Updated 11/10/2020)
+(Updated 24/10/2020)
 
 General genomics (sequencing, lib prep, extraction)
 ------
@@ -29,6 +29,7 @@ Population Genomics
 * Have not yet tested, but maybe a practical way to [run D-statistics from a VCF](https://www.biorxiv.org/content/10.1101/634477v2)
 * Variant-calling [tutorial](https://bioinformaticsworkbook.org/dataAnalysis/VariantCalling/variant-calling-index)
 * Needing some help with [GATK for non-model organisms?](https://evodify.com/gatk-in-non-model-organism/)
+* Mark Ravinet has a three part tutorial on how to detect selection! See [part 1 here](https://markravinet.github.io/inferring_selection_part1.html), [part 2 here](https://markravinet.github.io/inferring_selection_part2.html), and [part 3 here](https://markravinet.github.io/inferring_selection_part1.html).
 
 Comparative Genomics
 ------
