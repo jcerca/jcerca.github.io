@@ -41,6 +41,7 @@ Comparative Genomics
 * Handling [GTF, GFF, GFF3 files](https://github.com/NBISweden/AGAT/)
 * How to [run and interpret OrthoFinder](https://davidemms.github.io/menu/tutorials.html)
 * Retrieving [Homologous Chromossomic regions](http://chibba.pgml.uga.edu/mcscan2) and [plotting it](http://synvisio.github.io)
+* Excellent tutorial on [genome repeat and TE annotation](https://www.biostars.org/p/411101/)
 
 Phylogenomics
 ------
