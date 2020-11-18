@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-(Updated 24/10/2020)
+(Updated 17/11/2020)
 
 General genomics (sequencing, lib prep, extraction)
 ------
@@ -42,6 +42,7 @@ Comparative Genomics
 * How to [run and interpret OrthoFinder](https://davidemms.github.io/menu/tutorials.html)
 * Retrieving [Homologous Chromossomic regions](http://chibba.pgml.uga.edu/mcscan2) and [plotting it](http://synvisio.github.io)
 * Excellent tutorial on [genome repeat and TE annotation](https://www.biostars.org/p/411101/)
+* Promising [list of tutorials](https://genomevolution.org/wiki/index.php/Tutorials#Finding_Inversions) with CoGe to find features in your genome.
 
 Phylogenomics
 ------
