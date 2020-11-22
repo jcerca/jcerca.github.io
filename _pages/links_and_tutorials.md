@@ -43,6 +43,7 @@ Comparative Genomics
 * Retrieving [Homologous Chromossomic regions](http://chibba.pgml.uga.edu/mcscan2) and [plotting it](http://synvisio.github.io)
 * Excellent tutorial on [genome repeat and TE annotation](https://www.biostars.org/p/411101/)
 * Promising [list of tutorials](https://genomevolution.org/wiki/index.php/Tutorials#Finding_Inversions) with CoGe to find features in your genome.
+* Two ways of making better use of RepeatMasker to build RepeatLibraries. See [here](http://weatherby.genetics.utah.edu/MAKER/wiki/index.php/Repeat_Library_Construction-Advanced) and [here](https://www.biostars.org/p/411101/).
 
 Phylogenomics
 ------
