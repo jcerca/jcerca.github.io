@@ -7,12 +7,15 @@ author_profile: true
 
 I am an evolutionary biologist with a background in ecology and genomics. During the last few years I have developed an interest in Evolution in Islands and in using Genomic tools to understand these.
 
+### Island Evolution - *Scalesia* ###
+I am currently employed on the [DarwinPlants project](http://darwin-plants.com/). I am responsible for analysing genome evolution in the *Scalesia* genome (comparing to other Asteraceae), determine transcriptome-networks and the evolutionary history of the group. Stay tuned!
+
 ### Island Evolution - *Tetragnatha* ### 
 I have been working with the Hawai'ian *Tetragnatha* adaptive radiation'i together with [Professor Rosemary Gillespie at Berkeley](https://nature.berkeley.edu/evolab/). These spiders have repeatedly evolved four ecomorphs in different islands ("green", which sits on leaves; "maroon", which is mostly on moss; "small brown", among twigs; and "large brown", on tree bark). Basically, an ecomorph "jumps" to a new island and re-evolves the remaining ecomorphs, as Hawai'ian Islands are created by volcanic activity.
-Our goal is to determine areas on the genome responsible responsible for the adaptation of the ecomorphs to different environments.
+Our goal is to determine areas on the genome responsible responsible for the adaptation of the ecomorphs to different environments; and to study spider genome evolution.
 
 ### Island Evolution - Sparrows ###
-This project is pretty fresh. I am seeking funding, together with [Dr. Mark Ravinet at Nottingham](https://www.nottingham.ac.uk/research/groups/cells-organisms-and-molecular-genetics/people/mark.ravinet) to work on biogeography and adaptation of Cape Verde endemic Sparrows. We're still working out the funding!
+This project is pretty fresh. I am seeking funding, together with [Dr. Mark Ravinet at Nottingham](https://www.nottingham.ac.uk/research/groups/cells-organisms-and-molecular-genetics/people/mark.ravinet) to work on biogeography and adaptation of Cape Verde endemic Sparrows. While we're working out the funding we have generated some exciting population-level genomic data. To be continued..
 
 ### Genomics ###
 I'm interested in genomics, that is studying whole genomes of organisms. I'm currently sitting on some projects on population genomics of Cichlid fishes, Genomes of Spiders and genetics of Norwegian Bowhead Whales. Unfortunately, genomics projects take some time to get moving.. so hopefully sooner than later I'll have more to talk about!
