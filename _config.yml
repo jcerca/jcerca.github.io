@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "José Cerca"
   avatar           : "cerca_grinnyphoto.jpg"
-  bio              : "Evolutionary genomics in Islands"
-  location         : "Berkeley, CA"
+  bio              : "Evolutionary Genomics in Islands"
+  location         : "Trondheim, Norway"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.pt/citations?user=ZI1vWPEAAAAJ&hl=en"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "cryptic_omics"
+  twitter          : "IslandGenomics"
   vine             :
   weibo            :
   xing             :
