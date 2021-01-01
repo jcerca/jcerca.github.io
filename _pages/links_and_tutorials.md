@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-(Updated 17/11/2020)
+(Updated 02/01/2021)
 
 General genomics (sequencing, lib prep, extraction)
 ------
@@ -16,6 +16,7 @@ General genomics (sequencing, lib prep, extraction)
 * Starting with Genomics, unix and programming? Look no further, Ming Tang has compiled [a comprehensive list of resources](https://github.com/crazyhottommy/getting-started-with-genomics-tools-and-resources)
 * Sequence [file formats](https://snipcademy.com/sequence-file-formats)
 * Catalogue of [long-read tools](https://long-read-tools.org/analysis.html)
+* Tons of [one liners to modify genomic files!](https://github.com/crazyhottommy/bioinformatics-one-liners/blob/master/README.md)
 
 Population Genomics
 ------
