@@ -5,6 +5,9 @@ permalink: /news/
 author_profile: true
 ---
 
+* 15/01/2021 - When it rains, it pours! I got two papers first-authored accepted this week (one in PeerJ, another in Methods in Ecology and Evolution). Time to celebrate!
+* 10/01/2021 - Tune in for a session I am organizing soon, entitled [Evolution of those around us: Genomics of commensalism and urban evolution](https://twitter.com/IslandGenomics/status/1350007548154437633?s=19)
+* 22/12/2020 - Just got a rejection on a grant application on commensalism and urban evolution in Cape Verde. It's tough, but will resubmit this until I eventually get it (since I think it's a nice project)
 * 28/10/2020 - I just created the [DarwinPlants website!](https://darwin-plants.com)
 * 01/10/2020 - I just got enrolled as a supervisor of two MSc students. Jaime is working on parrots & Nina will be working on snakes! Both projects involve looking at genomics (mitochondrial genomes, phylogenies, SNP-calling & popgen!)
 * 01/09/2020 - See my first Rxiv paper: [Removing the bad apples: a simple bioinformatic method to improve loci-recovery in de novo RADseq data for non-model organisms](https://ecoevorxiv.org/47tka)
