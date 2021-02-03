@@ -30,7 +30,9 @@ My approach to research consists in mobility and collaboration, benefiting from 
 Here are some people who are collaborators of mine (alphabetically by last name):
   * [Mark Blaxter, Tree of Life project](https://www.sanger.ac.uk/person/blaxter-mark/) - Genome assembly and Annotation
   * [Julian Catchen, UIUC](http://catchenlab.life.illinois.edu/)  - RADseq genomics
-  * [Hugo de Boer, University of Oslo](https://www.nhm.uio.no/english/about/organization/research-collections/people/hugode/) - Genomics
+  * [Rosemary Gillespie, UC Berkeley](https://nature.berkeley.edu/evolab/) - PI in the Tetragnatha project
+  * [Rauri Bowie, UC Berkeley](https://bowie.berkeley.edu/people/rauri-bowie/) - Collaborator in the Sparrow project
+  * [Torsten Struck, Universoty of Oslo](https://scholar.google.pt/citations?hl=en&user=NossYmoAAAAJ) - former PhD Advisor
   * [Dimitar Dimitrov, University in Bergen](https://www.uib.no/en/persons/Dimitar.Dimitrov) - MacroEvolution & MacroEcology
   * [Rosa Fernandéz, IBE Barcelona](https://rmfernandezgarcia0.wixsite.com/metazomics) - Collaboration on comparative genomics & genome annotation
   * [Joana Meier, University of Cambridge](https://joanameier.ch/) - Collaboration with population genomics
@@ -39,3 +41,5 @@ Here are some people who are collaborators of mine (alphabetically by last name)
   * [Nicolas Rochette, UCLA](https://scholar.google.com/citations?user=DFqQtXgAAAAJ&hl=en) - RADseq genomics
   * [Rubén Torices, Juan Carlos](https://rubentorices.wordpress.com/) - Ecology
   * [Joel Vizueta, University of Barcelona](https://scholar.google.com/citations?user=CTBqqSsAAAAJ&hl=en) - Collaboration on comparative genomics & genome annotation
+  * [Hugo de Boer, University of Oslo](https://www.nhm.uio.no/english/about/organization/research-collections/people/hugode/) - Genomics
+
