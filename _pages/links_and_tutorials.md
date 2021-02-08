@@ -45,6 +45,7 @@ Comparative Genomics
 * Excellent tutorial on [genome repeat and TE annotation](https://www.biostars.org/p/411101/)
 * Promising [list of tutorials](https://genomevolution.org/wiki/index.php/Tutorials#Finding_Inversions) with CoGe to find features in your genome.
 * Two ways of making better use of RepeatMasker to build RepeatLibraries. See [here](http://weatherby.genetics.utah.edu/MAKER/wiki/index.php/Repeat_Library_Construction-Advanced) and [here](https://www.biostars.org/p/411101/).
+* This [program looks like an easy way to look for synteny!](http://www.agcol.arizona.edu/software/symap/doc/Tour.html)
 
 Phylogenomics
 ------
