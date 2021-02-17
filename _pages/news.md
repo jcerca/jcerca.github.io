@@ -5,6 +5,9 @@ permalink: /news/
 author_profile: true
 ---
 
+* 17/02/2021 - My fellowship "Ecological speciation, polyploidy, and the rewiring of transcriptomic networks: untangling the drivers for genomic novelty and genomic functionality" was funded by the Norwegian Research Council - 1,691,000 NOK to collaborate with & visit the Galápagos, Copenhagen, and UC Davis!
+* 16/02/2021 - Just accepted hosting a speed-dating session on careers and paths on Evolutionary Genomics to the ENEB (Portuguese National Meeting for Biology Students) in March. Really looking forward 
+* 12/02/2021 - Happy Darwin Day! I am talking at a Portuguese high-school to some 17/18 year olds about careers in science.
 * 15/01/2021 - When it rains, it pours! I got two papers first-authored accepted this week (one in PeerJ, another in Methods in Ecology and Evolution). Time to celebrate!
 * 10/01/2021 - Tune in for a session I am organizing soon, entitled [Evolution of those around us: Genomics of commensalism and urban evolution](https://twitter.com/IslandGenomics/status/1350007548154437633?s=19)
 * 22/12/2020 - Just got a rejection on a grant application on commensalism and urban evolution in Cape Verde. It's tough, but will resubmit this until I eventually get it (since I think it's a nice project)
