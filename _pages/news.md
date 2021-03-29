@@ -4,7 +4,8 @@ title: "News"
 permalink: /news/
 author_profile: true
 ---
-
+* 28/03/2021 - Just gave two presentations on the Portuguese Meeting for Biology Students
+* 17/03/2021 - I hosted a Genomics Social Hour on [Island Adaptive Radiations](https://www.youtube.com/watch?v=q_GFcqb8fls), which was really nice! I can't take any credit, since the speakers put on an excellent show, and we had >100 participants.
 * 17/02/2021 - My fellowship "Ecological speciation, polyploidy, and the rewiring of transcriptomic networks: untangling the drivers for genomic novelty and genomic functionality" was funded by the Norwegian Research Council - 1,691,000 NOK to collaborate with & visit the Galápagos, Copenhagen, and UC Davis!
 * 16/02/2021 - Just accepted hosting a speed-dating session on careers and paths on Evolutionary Genomics to the ENEB (Portuguese National Meeting for Biology Students) in March. Really looking forward 
 * 12/02/2021 - Happy Darwin Day! I am talking at a Portuguese high-school to some 17/18 year olds about careers in science.
