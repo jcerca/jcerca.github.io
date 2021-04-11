@@ -5,6 +5,7 @@ permalink: /news/
 author_profile: true
 ---
 * 26/04/2021 - We will be starting our ForBio Course [Introduction to Bioinformatics](https://www.forbio.uio.no/events/courses/2021/bioinfo_intro_2021.html)
+* 10/04/2021 - I will be giving a Scan seminar on [Genome Evolution in the Scalesia group](https://www.itqb.unl.pt/events/scan-jose-cerca), to the ITQB in Lisboa, PT.
 * 04/04/2021 - This week I'll be teaching my first class for the NTNU - A 2 hour lecture on Island Biogeography for undergraduates!
 * 28/03/2021 - Just gave two presentations on my background and motivation to do research abroad, to the Portuguese Meeting for Biology Students - hopefully we will find some more PT Evolutionary Biologists in the making!
 * 17/03/2021 - I hosted a Genomics Social Hour on [Island Adaptive Radiations](https://www.youtube.com/watch?v=q_GFcqb8fls), which was really nice! I can't take any credit, since the speakers put on an excellent show, and we had >100 participants.
