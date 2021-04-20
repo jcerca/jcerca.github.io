@@ -16,4 +16,4 @@ I combine genomic data (population genomics, phylogenomics, comparative genomics
 I am open to collaboration, contact and inquiries from the general public, press or peers. Feel free to contact me from at jose.cerca (at) gmail.com
 
 ### More about myself
-I am originally from the small, cosy town of [Guarda, Portugal](https://en.wikipedia.org/wiki/Guarda,_Portugal). When I was 18, I moved to Coimbra to study biology at the [Universidade de Coimbra],(https://en.wikipedia.org/wiki/University_of_Coimbra), and did a one-year Erasmus in [Siena, Italy](https://en.wikipedia.org/wiki/Siena). I returned to Coimbra to do a MSc in Ecology and then moved to Oslo for my PhD.
+I am originally from the small, cosy town of [Guarda, Portugal](https://en.wikipedia.org/wiki/Guarda,_Portugal). When I was 18, I moved to Coimbra to study biology at the [Universidade de Coimbra](https://en.wikipedia.org/wiki/University_of_Coimbra), and did a one-year Erasmus in [Siena, Italy](https://en.wikipedia.org/wiki/Siena). I returned to Coimbra to do a MSc in Ecology and then moved to Oslo for my PhD.
