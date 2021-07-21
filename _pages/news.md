@@ -7,7 +7,7 @@ author_profile: true
 * 20/07/2021 - I submitted the spider genome paper 'fingers crossed' (not that I can..)
 * 20/07/2021 - Paper accepted! "Pervasive admixture and the spread of a large-lipped form in a cichlid fish radiation!" will be soon out in Molecular Ecology
 * 20/07/2021 - Back in business after my sick-leave!
-* 03/06/2021 - Staying out for two weeks, since I broke a finger in each hand! Expecting a 6 weeks leave.
+* 03/06/2021 - Staying out for a few weeks, since I broke a finger in each hand! Expecting a 6 weeks leave.
 * 26/04/2021 - We will be starting our ForBio Course [Introduction to Bioinformatics](https://www.forbio.uio.no/events/courses/2021/bioinfo_intro_2021.html)
 * 10/04/2021 - I will be giving a Scan seminar on [Genome Evolution in the Scalesia group](https://www.itqb.unl.pt/events/scan-jose-cerca), to the ITQB in Lisboa, PT.
 * 04/04/2021 - This week I'll be teaching my first class for the NTNU - A 2 hour lecture on Island Biogeography for undergraduates!
