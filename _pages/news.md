@@ -4,6 +4,7 @@ title: "News"
 permalink: /news/
 author_profile: true
 ---
+* 21/07/2021 - I started two YouTube Channels: One on [Genomic Data analysis in English](https://www.youtube.com/channel/UCgi3FD6fLuaeqFhtRXFGaCQ) and one on [Science Communication on Evolutionary Genomics in Portuguese](https://www.youtube.com/channel/UCmUoTV3D7crpc2MrEwQMRQA).
 * 20/07/2021 - I submitted the spider genome paper 'fingers crossed' (not that I can..)
 * 20/07/2021 - Paper accepted! "Pervasive admixture and the spread of a large-lipped form in a cichlid fish radiation!" will be soon out in Molecular Ecology
 * 20/07/2021 - Back in business after my sick-leave!
