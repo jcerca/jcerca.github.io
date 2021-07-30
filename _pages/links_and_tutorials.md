@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-(Updated 02/01/2021)
+(Updated 30/07/2021)
 
 General genomics (sequencing, lib prep, extraction)
 ------
@@ -31,6 +31,8 @@ Population Genomics
 * Variant-calling [tutorial](https://bioinformaticsworkbook.org/dataAnalysis/VariantCalling/variant-calling-index)
 * Needing some help with [GATK for non-model organisms?](https://evodify.com/gatk-in-non-model-organism/)
 * Mark Ravinet has a three part tutorial on how to detect selection! See [part 1 here](https://markravinet.github.io/inferring_selection_part1.html), [part 2 here](https://markravinet.github.io/inferring_selection_part2.html), and [part 3 here](https://markravinet.github.io/inferring_selection_part1.html).
+* Brilliant tutorial on [hybridization/introgression](https://github.com/millanek/tutorials/tree/master/analysis_of_introgression_with_snp_data) 
+* Brilliant tutorial on [low-coverage data / ANGSD](https://github.com/mfumagalli/ngsTools/blob/master/TUTORIAL.md)
 
 Comparative Genomics
 ------
