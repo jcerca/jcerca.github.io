@@ -4,6 +4,8 @@ title: "News"
 permalink: /news/
 author_profile: true
 ---
+* 15/08/2021 - Registrations closed to our [OH-KNOW K-mer workshop](https://www.forbio.uio.no/events/courses/2021/k-mer_workshop) - looking really forward to teaching some K-mer based assigning of polyploids.
+* 10/08/2021 - I received a tough grant rejection with 6/6/6 (overall 6) out of 7. Only really minor comments this time. Focusing on a MSCA and a Norwegian Mobility grant now! I am determined on getting my 'prestigious fellowship funding'.
 * 21/07/2021 - I started two YouTube Channels: One on [Genomic Data analysis in English](https://www.youtube.com/channel/UCgi3FD6fLuaeqFhtRXFGaCQ) and one on [Science Communication on Evolutionary Genomics in Portuguese](https://www.youtube.com/channel/UCmUoTV3D7crpc2MrEwQMRQA).
 * 20/07/2021 - I submitted the spider genome paper 'fingers crossed' (not that I can..)
 * 20/07/2021 - Paper accepted! "Pervasive admixture and the spread of a large-lipped form in a cichlid fish radiation!" will be soon out in Molecular Ecology
