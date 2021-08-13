@@ -17,9 +17,13 @@ I am open to collaboration, contact and inquiries from the general public, press
 
 ### For editors looking for reviewers for peer-review
 Thanks for thinking of me! I am very happy to review manuscripts. I feel confident in /have been involved in reviewing:
+
 Papers using RADseq for phylogenomics and population genomics
+
 Papers using whole genome re-sequencing for phylogenomics and population genomics
+
 Papers doing genome assembly and comparative genomics
+
 Papers on adaptive radiation (especially on island systems)
 
 ### More about myself
