@@ -18,13 +18,7 @@ I am open to collaboration, contact and inquiries from the general public, press
 ### For editors looking for reviewers for peer-review
 Thanks for thinking of me! I am very happy to review manuscripts. I feel confident in /have been involved in reviewing:
 
-Papers using RADseq for phylogenomics and population genomics
-
-Papers using whole genome re-sequencing for phylogenomics and population genomics
-
-Papers doing genome assembly and comparative genomics
-
-Papers on adaptive radiation (especially on island systems)
+Papers using RADseq for phylogenomics and population genomics; Papers using whole genome re-sequencing for phylogenomics and population genomics; Papers doing genome assembly and comparative genomics; Papers on adaptive radiation (especially on island systems)
 
 ### More about myself
 I am originally from the small, cosy town of [Guarda, Portugal](https://en.wikipedia.org/wiki/Guarda,_Portugal) - where I'll always have my heart. When I was 18, I moved to Coimbra to study biology at the [Universidade de Coimbra](https://en.wikipedia.org/wiki/University_of_Coimbra), and did a one-year Erasmus in [Siena, Italy](https://en.wikipedia.org/wiki/Siena). I returned to Coimbra to do a MSc in Ecology and then moved to Lisboa for a 6 months stay as a technician, and eventually moved to Oslo for my PhD. I enjoy following sports (I am a big [F. C. Porto](https://en.wikipedia.org/wiki/FC_Porto) and [SF 49ers](https://en.wikipedia.org/wiki/San_Francisco_49ers) fan), politics, spending time with friends, watching series, hiking - I'd say that other than my work, I'm pretty normal!
