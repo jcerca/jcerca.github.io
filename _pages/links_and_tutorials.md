@@ -36,9 +36,9 @@ Population Genomics
 
 Comparative Genomics
 ------
+* Check our [Kmer tutorials](https://github.com/KamilSJaron/oh-know/wiki)
 * Comprative genomics [tutorials](https://bioinformaticsworkbook.org/dataAnalysis/ComparativeGenomics/compGenomics_index)
 * Long-read sequencer [comparison](https://github.com/rrwick/Long-read-assembler-comparison)
-* CAFE tutorial [for gene family evolution](https://iu.app.box.com/v/cafetutorial-files)
 * [Repeat annotation](https://bioinformaticsworkbook.org/dataAnalysis/ComparativeGenomics/Repeats_index) in genomes
 * Trying to estimate plody-level with the [GenomeScope-Smudgeplot combo](https://github.com/tbenavi1/genomescope2.0), but are getting weird results? [Kamil Jaron has a bunch to show you](https://kamilsjaron.github.io/peculiar-genomic-observations/)
 * Handling [GTF, GFF, GFF3 files](https://github.com/NBISweden/AGAT/)
