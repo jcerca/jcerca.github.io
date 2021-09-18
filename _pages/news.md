@@ -4,6 +4,9 @@ title: "News"
 permalink: /news/
 author_profile: true
 ---
+* 01/10/2021 - Getting ready to start my big adventure. As it looks, I'll spend 3 months in the Galápagos, 3 in Quito (Universidad San Francisco de Quito), 3 in Davis (UC Davis), and 3 months in Copenhagen (U. of Copenhagen). 2021 has been a rough year personally (breaking fingers, home office, etc) and I really look forward for this chance.
+* 15/09/2021 - Our OH-KNOW (K-mer) course was a success. We have uploaded the tutorials [here](https://github.com/KamilSJaron/oh-know/wiki), and will be soon publishing the Youtube lectures.
+* 15/09/2021 - We (Mark Ravinet, Rauri Bowie, Martim Melo, Ângela Ribeiro) obtained funding to sequence the genome of the Cape Verde sparrow and do a season of fieldwork (24,000 USD). More to come, in late 2022.
 * 15/08/2021 - Registrations closed to our [OH-KNOW K-mer workshop](https://www.forbio.uio.no/events/courses/2021/k-mer_workshop) - looking really forward to teaching some K-mer based assigning of polyploids.
 * 10/08/2021 - I received a tough grant rejection with 6/6/6 (overall 6) out of 7. Only really minor comments this time. Focusing on a MSCA and a Norwegian Mobility grant now! I am determined on getting my 'prestigious fellowship funding'.
 * 21/07/2021 - I started two YouTube Channels: One on [Genomic Data analysis in English](https://www.youtube.com/channel/UCgi3FD6fLuaeqFhtRXFGaCQ) and one on [Science Communication on Evolutionary Genomics in Portuguese](https://www.youtube.com/channel/UCmUoTV3D7crpc2MrEwQMRQA).
@@ -16,7 +19,7 @@ author_profile: true
 * 04/04/2021 - This week I'll be teaching my first class for the NTNU - A 2 hour lecture on Island Biogeography for undergraduates!
 * 28/03/2021 - Just gave two presentations on my background and motivation to do research abroad, to the Portuguese Meeting for Biology Students - hopefully we will find some more PT Evolutionary Biologists in the making!
 * 17/03/2021 - I hosted a Genomics Social Hour on [Island Adaptive Radiations](https://www.youtube.com/watch?v=q_GFcqb8fls), which was really nice! I can't take any credit, since the speakers put on an excellent show, and we had >100 participants.
-* 17/02/2021 - My fellowship "Ecological speciation, polyploidy, and the rewiring of transcriptomic networks: untangling the drivers for genomic novelty and genomic functionality" was funded by the Norwegian Research Council - 1,691,000 NOK to collaborate with & visit the Galápagos, Copenhagen, and UC Davis!
+* **17/02/2021 - My fellowship "Ecological speciation, polyploidy, and the rewiring of transcriptomic networks: untangling the drivers for genomic novelty and genomic functionality" was funded by the Norwegian Research Council - 1,691,000 NOK to collaborate with & visit the Galápagos, Quito, Copenhagen, and Davis (California)!**
 * 16/02/2021 - Just accepted hosting a speed-dating session on careers and paths on Evolutionary Genomics to the ENEB (Portuguese National Meeting for Biology Students) in March. Really looking forward 
 * 12/02/2021 - Happy Darwin Day! I am talking at a Portuguese high-school to some 17/18 year olds about careers in science.
 * 15/01/2021 - When it rains, it pours! I got two papers first-authored accepted this week (one in PeerJ, another in Methods in Ecology and Evolution). Time to celebrate!
