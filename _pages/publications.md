@@ -7,18 +7,18 @@ author_profile: true
 
 For an all-time updated version of my publication list and citations, please see my [scholar profile](https://scholar.google.pt/citations?user=ZI1vWPEAAAAJ&hl=en), many of these papers are available through my [researchgate](https://www.researchgate.net/profile/Jose_Cerca) profile.
 
-(updated 15/01/2020)
+(updated 01/11/2021)
 
 In preparation, on bioRxiv, or submitted
 ------
-4. The genomic diversity of Spitsbergen stock bowhead whales (Balaena mysticetus) * manuscript in prep (co-first author)*
-3. The genome of the endangered Scalesia atractyloides sheds light on re-diploidization, leaf and shrubby habit evolution - *manuscript in prep for Ecology Letters* (first author)
-2. Genome and gene family evolution in spiders - *manuscript circulating around co-authors, in prep for Molecular Biology and Evolution* (first author)
-1. Admixture and parallel evolution in TTT-fish - *in review at Molecular Ecology (co-first author)*
+3. The genomic diversity of Spitsbergen stock bowhead whales (Balaena mysticetus) *manuscript submitted to Scientific Reports (co-first author)*
+2. †A chromosome-resolved polyploid assembly of a member of Darwin’s giant daisy radiation shows the genomic basis of the plant island syndrome (Scalesia; Galápagos) - *manuscript in prep* (first author)
+1. Genome and gene family evolution in spiders - *manuscript circulating around co-authors, in review at Genome Biology and Evolution* (first author)
 
 
 Peer-reviewed
 ------
+10. **J. Cerca^**, W. Sowersby^, B. B. M. Wong, T. K. Lehtonen, D. G. Chapple, M.  Leal-Cardín, M. Barluenga, M. Ravinet [Pervasive admixture and the spread of a large-lipped form in a cichlid fish radiation](https://onlinelibrary.wiley.com/doi/10.1111/mec.16139) Molecular Ecology ; ^ denotes co-first authorship
 9. **J. Cerca**, A. G. Rivera-Colón, M. S. Ferreira, M. Ravinet, M. D. Nowak, J. M. Cathcen, T. H. Struck 2021 [Incomplete lineage sorting and ancient admixture, and speciation without morphological change in ghost-worm cryptic species](https://peerj.com/articles/10896/) PeerJ
 8. **J. Cerca^**, M. F. Maurstad^, N. C. Rochette, A. G. Rivera-Colón, N. Rayamajhi, J. Catchen, T. H. Struck 2021 [Removing the bad apples: A simple bioinformatic method to improve loci‐recovery in de novo RADseq data for non‐model organisms](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.13562) Methods in Ecology and Evolution; ^ - equal contribution
 7. **J. Cerca**, C. Meyer, G. Purschke, T.H. Struck 2020 [Delimitation of cryptic species drastically reduces the geographical ranges of marine interstitial ghost-worms (Stygocapitella; Annelida, Sedentaria)](https://www.sciencedirect.com/science/article/pii/S1055790319303975) Molecular Phylogenetics and Evolution
