@@ -4,6 +4,7 @@ title: "News"
 permalink: /news/
 author_profile: true
 ---
+* 10/11/2021 - Spider Genome Evolution paper accepted in Genome Biology and Evolution.
 * 01/10/2021 - Getting ready to start my big adventure. As it looks, I'll spend 3 months in the Galápagos, 3 in Quito (Universidad San Francisco de Quito), 3 in Davis (UC Davis), and 3 months in Copenhagen (U. of Copenhagen). 2021 has been a rough year personally (breaking fingers, home office, etc) and I really look forward for this chance.
 * 15/09/2021 - Our OH-KNOW (K-mer) course was a success. We have uploaded the tutorials [here](https://github.com/KamilSJaron/oh-know/wiki), and will be soon publishing the Youtube lectures.
 * 15/09/2021 - We (Mark Ravinet, Rauri Bowie, Martim Melo, Ângela Ribeiro) obtained funding to sequence the genome of the Cape Verde sparrow and do a season of fieldwork (24,000 USD). More to come, in late 2022.
