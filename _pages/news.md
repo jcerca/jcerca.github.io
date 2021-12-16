@@ -4,7 +4,8 @@ title: "News"
 permalink: /news/
 author_profile: true
 ---
-* 15/11/2021 - Spider Genome Evolution paper accepted in Genome Biology and Evolution.
+* 16/12/2021 - I won the 2021 best PhD/MSc paper award competition from the Natural History Museum in Oslo.
+* 15/11/2021 - [Spider Genome Evolution paper accepted in Genome Biology and Evolution](https://academic.oup.com/gbe/advance-article/doi/10.1093/gbe/evab262/6443144)
 * 10/11/2021 - Our PhD student, Jaime, was admitted to the PhD programme at the NTNU! He will be working with Parrot evolution.
 * 01/10/2021 - Getting ready to start my big adventure. As it looks, I'll spend 3 months in the Galápagos, 3 in Quito (Universidad San Francisco de Quito), 3 in Davis (UC Davis), and 3 months in Copenhagen (U. of Copenhagen). 2021 has been a rough year personally (breaking fingers, home office, etc) and I really look forward for this chance.
 * 15/09/2021 - Our OH-KNOW (K-mer) course was a success. We have uploaded the tutorials [here](https://github.com/KamilSJaron/oh-know/wiki), and will be soon publishing the Youtube lectures.
