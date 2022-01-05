@@ -4,6 +4,8 @@ title: "News"
 permalink: /news/
 author_profile: true
 ---
+* 03/01/2022 - We just got a symposium accepted at [ESEB](https://www.eseb2022.cz/) - join us for "Repeated and parallel evolution in adaptive radiations".
+* 01/01/2022 - Happy New Year! Our project [BiGTREE (*Bi*odiversity *G*enomics *T*raining, *R*esearch, *E*ducation and *E*xchanges)](http://bigtree-training.org/), where we have 1,000,000 USD to train LatinAmerican students starts today. Really looking forward to five years of collaboration, classes, receiving MSc/PhD students in Norway and sending Norwegians abroad.
 * 16/12/2021 - I won the 2021 best PhD/MSc paper award competition from the Natural History Museum in Oslo.
 * 15/11/2021 - [Spider Genome Evolution paper accepted in Genome Biology and Evolution](https://academic.oup.com/gbe/advance-article/doi/10.1093/gbe/evab262/6443144)
 * 10/11/2021 - Our PhD student, Jaime, was admitted to the PhD programme at the NTNU! He will be working with Parrot evolution.
