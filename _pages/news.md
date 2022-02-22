@@ -6,6 +6,7 @@ author_profile: true
 ---
 * 22/02/2022 - Just received a award rejection on the 2022 John Maynard Smith Prize of the European Society for Evolutionary Biology. More chances will come!
 * 16/02/2022 - Our time in the Galápagos came to an end. I bring home some fantastic memories, and knowlege of many ideas and study systems.
+* 28/01/2022 - Just posted online my first preprint on [the genome of Scalesia](https://www.biorxiv.org/content/10.1101/2022.01.26.477903v1.article-metrics)!
 * 15/01/2022 - I'll be taking a BSc student from the Universidad de las Fuerzas Armadas de Ecuador - Pável Enriquez will be assembling chloroplast genomes of *Scalesia*!
 * 03/01/2022 - We just got a symposium accepted at [ESEB](https://www.eseb2022.cz/) - join us for "Repeated and parallel evolution in adaptive radiations".
 * 01/01/2022 - Happy New Year! Our project [BiGTREE (*Bi*odiversity *G*enomics *T*raining, *R*esearch, *E*ducation and *E*xchanges)](http://bigtree-training.org/), where we have 1,000,000 USD to train LatinAmerican students starts today. Really looking forward to five years of collaboration, classes, receiving MSc/PhD students in Norway and sending Norwegians abroad.
