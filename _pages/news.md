@@ -4,6 +4,9 @@ title: "News"
 permalink: /news/
 author_profile: true
 ---
+* 15/03/2022 - Fun times ahead! Just received a genomics dataset of Galápagos' cacti to analyse.
+* 12/03/2022 - Co-first author paper on bowhead whales accepted in Scientific Reports.
+* 10/03/2022 - My collaborator Bashir just submitted the big paper of his PhD. Fingers crossed that it goes high.
 * 22/02/2022 - Just received a award rejection on the 2022 John Maynard Smith Prize of the European Society for Evolutionary Biology. More chances will come!
 * 16/02/2022 - Our time in the Galápagos came to an end. I bring home some fantastic memories, and knowlege of many ideas and study systems.
 * 28/01/2022 - Just posted online my first preprint on [the genome of Scalesia](https://www.biorxiv.org/content/10.1101/2022.01.26.477903v1.article-metrics)!
