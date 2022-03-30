@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-(Updated 30/07/2021)
+(Updated 30/03/2022)
 
 General genomics (sequencing, lib prep, extraction)
 ------
@@ -37,6 +37,7 @@ Population Genomics
 Comparative Genomics
 ------
 * Check our [Kmer tutorials](https://github.com/KamilSJaron/oh-know/wiki)
+* [Repeat annotation of genomes, by the brilliant Clemént Goubert](https://www.clementgoubert.com/post/a-simple-pipeline-for-te-annotation-in-an-assembled-genome)
 * Comprative genomics [tutorials](https://bioinformaticsworkbook.org/dataAnalysis/ComparativeGenomics/compGenomics_index)
 * Long-read sequencer [comparison](https://github.com/rrwick/Long-read-assembler-comparison)
 * [Repeat annotation](https://bioinformaticsworkbook.org/dataAnalysis/ComparativeGenomics/Repeats_index) in genomes
