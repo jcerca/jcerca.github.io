@@ -4,8 +4,11 @@ title: "News"
 permalink: /news/
 author_profile: true
 ---
+* 12/05/2022 - I got a talk on ESEB 2022. Backstory being:  I decided I wanted to be an evolutionary biologist at the 2013 ESEB in Portugal. I always day-dreamed about having an ESEB talk. Took me 9 years, but happened :)
+* 28/04/2022 - Back to the Bay! Visiting friends at UC Berkeley for a few days :)
+* 15/04/2022 - Visited the beautiful city of Tena and the brilliant IKIAM university. Collaborations lying ahead!
 * 15/03/2022 - Fun times ahead! Just received a genomics dataset of Galápagos' cacti to analyse.
-* 12/03/2022 - Co-first author paper on bowhead whales accepted in Scientific Reports.
+* 12/03/2022 - Co-first author [paper on bowhead whales accepted in Scientific Reports](https://www.nature.com/articles/s41598-022-09868-5).
 * 10/03/2022 - My collaborator Bashir just submitted the big paper of his PhD. Fingers crossed that it goes high.
 * 22/02/2022 - Just received a award rejection on the 2022 John Maynard Smith Prize of the European Society for Evolutionary Biology. More chances will come!
 * 16/02/2022 - Our time in the Galápagos came to an end. I bring home some fantastic memories, and knowlege of many ideas and study systems.
