@@ -11,13 +11,12 @@ For an all-time updated version of my publication list and citations, please see
 
 In preparation, on bioRxiv, or submitted
 ------
-2. The genomic diversity of Spitsbergen stock bowhead whales (Balaena mysticetus) *manuscript submitted to Scientific Reports (co-first author)*
 1. †A chromosome-resolved polyploid assembly of a member of Darwin’s giant daisy radiation shows the genomic basis of the plant island syndrome (Scalesia; Galápagos) - *manuscript in prep* (first author)
 
 
 Peer-reviewed
 ------
-
+13. **J. Cerca^**, M. V. Westbury^, M. P. Heide-Jørgensen, K. M. Kovacs, E. D. Lorenzen, C. Lydersen, O. V. Shpak, Ø. Wiig, L. Bachmann [High genomic diversity in the endangered East Greenland Svalbard Barents Sea stock of bowhead whales (*Balaena mysticetus*)](https://www.nature.com/articles/s41598-022-09868-5) ^ co-first authors
 12. **J. Cerca**, E. E. Armstrong, S. Prost, M. Blaxter, R. Gillespie, D. Petrov: [The Tetragnatha kauaiensis genome sheds light on spider genome evolution](https://academic.oup.com/gbe/article/13/12/evab262/6443144) Genome Biology and Evolution
 11. V. I. Radashevsky, V. V. Pankova, V. V. Malyar, **J. Cerca**, T. H. Struck; [A review of the worldwide distribution of Marenzelleria viridis, with new records for M. viridis, M. neglecta and Marenzelleria sp.](https://www.biotaxa.org/Zootaxa/article/view/zootaxa.5081.3.3) Zootaxa
 10. **J. Cerca^**, W. Sowersby^, B. B. M. Wong, T. K. Lehtonen, D. G. Chapple, M.  Leal-Cardín, M. Barluenga, M. Ravinet [Pervasive admixture and the spread of a large-lipped form in a cichlid fish radiation](https://onlinelibrary.wiley.com/doi/10.1111/mec.16139) Molecular Ecology ; ^ denotes co-first authorship
