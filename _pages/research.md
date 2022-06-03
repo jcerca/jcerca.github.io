@@ -17,8 +17,11 @@ Our goal is to determine areas on the genome responsible responsible for the ada
 ### Island Evolution - Sparrows ###
 This project is pretty fresh. I am seeking funding, together with [Dr. Mark Ravinet at Nottingham](https://www.nottingham.ac.uk/research/groups/cells-organisms-and-molecular-genetics/people/mark.ravinet) to work on biogeography and adaptation of Cape Verde endemic Sparrows. While we're working out the funding we have generated some exciting population-level genomic data. To be continued.
 
-### Island Evolution - In the pipeline ###
+### Island Evolution - Galápagos Prickly pears ###
+In this collaboration with Felipe Zapata, Jaime Chaves, Gonzalo Rivas-Torres (and others), we're using RADseq to study the evolutionary history of these impressive cacti. The prickly pears just have so much variation in terms of diversity, variation, and we're only starting.
 
+### Island Evolution - Galápagos lava lizards ###
+Collaboration starting with Juan Manuel Guayasamin (and others) - still getting off the ground, but it'll be cool to look at these impressive Galápagos beasts!
 
 ### Cryptic species ###
 Cryptic species are morphologically similar species. I did my PhD with [Torsten H. Struck in Oslo](https://www.nhm.uio.no/english/about/organization/research-collections/people/torsths/), where we investigated the lineage history of species which have been morphologically identical for >100 million years! It is a pretty cool topic! You can see our [lengthy review here](https://www.sciencedirect.com/science/article/abs/pii/S0169534717302902), as well as where we [describe some new species](https://www.sciencedirect.com/science/article/pii/S1055790319303975), and [where we suggest a pattern of deceleration of morphological evolution!](https://onlinelibrary.wiley.com/doi/full/10.1111/evo.13884)
