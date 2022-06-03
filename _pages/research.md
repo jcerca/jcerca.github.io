@@ -17,6 +17,9 @@ Our goal is to determine areas on the genome responsible responsible for the ada
 ### Island Evolution - Sparrows ###
 This project is pretty fresh. I am seeking funding, together with [Dr. Mark Ravinet at Nottingham](https://www.nottingham.ac.uk/research/groups/cells-organisms-and-molecular-genetics/people/mark.ravinet) to work on biogeography and adaptation of Cape Verde endemic Sparrows. While we're working out the funding we have generated some exciting population-level genomic data. To be continued.
 
+### Island Evolution - In the pipeline ###
+
+
 ### Cryptic species ###
 Cryptic species are morphologically similar species. I did my PhD with [Torsten H. Struck in Oslo](https://www.nhm.uio.no/english/about/organization/research-collections/people/torsths/), where we investigated the lineage history of species which have been morphologically identical for >100 million years! It is a pretty cool topic! You can see our [lengthy review here](https://www.sciencedirect.com/science/article/abs/pii/S0169534717302902), as well as where we [describe some new species](https://www.sciencedirect.com/science/article/pii/S1055790319303975), and [where we suggest a pattern of deceleration of morphological evolution!](https://onlinelibrary.wiley.com/doi/full/10.1111/evo.13884)
 
@@ -25,6 +28,8 @@ Collaborators
 ----
 My approach to research consists in mobility and collaboration, benefiting from the direct expertise of leaders in different research fields, thus increasing the quality of my work and publications. This approach is highly cooperative, and is grounded on two ideas: "two brains think better than one" and "if you have worked in a topic for longer than I, it's likely that you have something to say about my ideas, result or approach". My work would thus not be possible without the knowledge, support, kindness and patience of multiple individuals.
 Here are some people who are collaborators of mine (alphabetically by last name):
+  * [Felipe Zapata](https://www.zapatalab.org/) - Galápagos Evolution
+  * [Gonzalo Rivas-Torres](https://ecologyecuador.com/) - Galápagos Evolution
   * [Martin Stervander](https://www.stervander.com/) - Island bird evolution
   * [Bruce Baldwin, UC Berkeley](https://ib.berkeley.edu/people/faculty/baldwinb) - Daisy evolution
   * [Mark Blaxter, Tree of Life project](https://www.sanger.ac.uk/person/blaxter-mark/) - Genome assembly and Annotation
