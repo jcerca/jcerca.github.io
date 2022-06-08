@@ -4,6 +4,7 @@ title: "News"
 permalink: /news/
 author_profile: true
 ---
+* 01/06/2022 - Scalesia atractyloides genome paper accepted. More about that soon!
 * 12/05/2022 - I got a talk on ESEB 2022. Backstory being:  I decided I wanted to be an evolutionary biologist at the 2013 ESEB in Portugal. I always day-dreamed about having an ESEB talk. Took me 9 years, but happened :)
 * 28/04/2022 - Back to the Bay! Visiting friends at UC Berkeley for a few days :)
 * 15/04/2022 - Visited the beautiful city of Tena and the brilliant IKIAM university. Collaborations lying ahead!
