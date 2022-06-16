@@ -9,22 +9,27 @@ I am an evolutionary biologist with a background in ecology and genomics. During
 
 ### Island Evolution - *Scalesia* ###
 I am currently employed on the [DarwinPlants project](http://darwin-plants.com/). I am responsible for analysing genome evolution in the *Scalesia* genome (comparing to other Asteraceae), determine transcriptome-networks, the evolutionary history of the group, and analyse transposable element variation. Stay tuned!
+Questions: What is the genomic-basis of the plant island syndrome? Are transposable elements contributing to the observed morphological/ecological diversity in this lineage?
 
 ### Island Evolution - *Tetragnatha* ### 
-I have been working with the Hawai'ian *Tetragnatha* adaptive radiation'i together with [Professor Rosemary Gillespie at Berkeley](https://nature.berkeley.edu/evolab/). These spiders have repeatedly evolved four ecomorphs in different islands (green, which sits on leaves; maroon, which is moss-dwelling; small brown, living in twigs and branches; and large brown, living on tree bark). Basically, ecomorphs have repeatedly evolved, as Hawai'ian Islands are created by volcanic activity.
-Our goal is to determine areas on the genome responsible responsible for the adaptation of the ecomorphs to different environments; and to study spider genome evolution.
+I work with the Hawaiian *Tetragnatha* adaptive radiation'i together with [Professor Rosemary Gillespie at Berkeley](https://nature.berkeley.edu/evolab/). These spiders have repeatedly evolved four ecomorphs in different islands (green, which sits on leaves; maroon, which is moss-dwelling; small brown, living in twigs and branches; and large brown, living on tree bark). Basically, ecomorphs have repeatedly evolved, as Hawai'ian Islands are created by volcanic activity.
+Questions: What is the genomic-basis of repeated phenotypic evolution?
 
 ### Island Evolution - Sparrows ###
-This project is pretty fresh. I am seeking funding, together with [Dr. Mark Ravinet at Nottingham](https://www.nottingham.ac.uk/research/groups/cells-organisms-and-molecular-genetics/people/mark.ravinet) to work on biogeography and adaptation of Cape Verde endemic Sparrows. While we're working out the funding we have generated some exciting population-level genomic data. To be continued.
+Together with [Dr. Mark Ravinet at Nottingham](https://www.nottingham.ac.uk/research/groups/cells-organisms-and-molecular-genetics/people/mark.ravinet), we are working on the biogeography and adaptation to urban and arid conditions in the Cape Verde endemic sparrow species.
+Questions: What is the genomic basis of arid and urban evolution?
 
 ### Island Evolution - Galápagos Prickly pears ###
 In this collaboration with Felipe Zapata, Jaime Chaves, Gonzalo Rivas-Torres (and others), we're using RADseq to study the evolutionary history of these impressive cacti. The prickly pears just have so much variation in terms of diversity, variation, and we're only starting.
+Question: Is the Opuntia lineage undergoing an adaptive radiation on the Galápagos?
 
 ### Island Evolution - Galápagos lava lizards ###
 Collaboration starting with Juan Manuel Guayasamin (and others) - still getting off the ground, but it'll be cool to look at these impressive Galápagos beasts!
+Question: Are lava lizards undergoing ecological speciation?
 
+### Past Research ###
 ### Cryptic species ###
-Cryptic species are morphologically similar species. I did my PhD with [Torsten H. Struck in Oslo](https://www.nhm.uio.no/english/about/organization/research-collections/people/torsths/), where we investigated the lineage history of species which have been morphologically identical for >100 million years! It is a pretty cool topic! You can see our [lengthy review here](https://www.sciencedirect.com/science/article/abs/pii/S0169534717302902), as well as where we [describe some new species](https://www.sciencedirect.com/science/article/pii/S1055790319303975), and [where we suggest a pattern of deceleration of morphological evolution!](https://onlinelibrary.wiley.com/doi/full/10.1111/evo.13884)
+Cryptic species are morphologically similar species. I did my PhD with [Torsten H. Struck in Oslo](https://www.nhm.uio.no/english/about/organization/research-collections/people/torsths/), where we investigated the lineage history of species which have been morphologically identical for >100 million years! It is a pretty cool topic, and you can see our [lengthy review here](https://www.sciencedirect.com/science/article/abs/pii/S0169534717302902), as well as where we [describe some new species](https://www.sciencedirect.com/science/article/pii/S1055790319303975), and [where we suggest a pattern of deceleration of morphological evolution!](https://onlinelibrary.wiley.com/doi/full/10.1111/evo.13884)
 
 
 Collaborators
