@@ -10,13 +10,12 @@ My research can be broadly organized into three questions:
 To answer this question I focus on island adaptive radiations. An adaptive radiation is " a process in which organisms diversify rapidly from an ancestral species into a multitude of new forms, particularly when a change in the environment makes new resources available, alters biotic interactions or opens new environmental niches" (Wikipedia). On islands we observe closely related species and sister species withstanding very different environmental conditions - for instance, we observe two closely-related plants living in sun-exposed lava rocks or in the humid-highlands where there are permanent foggy conditions. How is this achieved?
 
 Biological systems:
-#### *Scalesia* ####
-I am currently employed on the [DarwinPlants project](http://darwin-plants.com/). I am responsible for analysing genome evolution in the *Scalesia* genome (comparing to other Asteraceae), determine transcriptome-networks, the evolutionary history of the group, and analyse transposable element variation. Stay tuned!
-Questions: What is the genomic-basis of the plant island syndrome? Are transposable elements contributing to the observed morphological/ecological diversity in this lineage?
+#### *Scalesia* Comparative genomics (Galápagos) ####
+As part of [DarwinPlants](http://darwin-plants.com/), I am studying the genomic-basis of insular evolution. The *Scalesia* lineage comprises >15 species distribured over coastal-arid, humid-highlands in the Galápagos. This involves obtaining reference genomes, comparing genomes, transposable elements, genes, transcriptome-networks.
 
-### Island Evolution - *Tetragnatha* ### 
-I work with the Hawaiian *Tetragnatha* adaptive radiation'i together with [Professor Rosemary Gillespie at Berkeley](https://nature.berkeley.edu/evolab/). These spiders have repeatedly evolved four ecomorphs in different islands (green, which sits on leaves; maroon, which is moss-dwelling; small brown, living in twigs and branches; and large brown, living on tree bark). Basically, ecomorphs have repeatedly evolved, as Hawai'ian Islands are created by volcanic activity.
-Questions: What is the genomic-basis of repeated phenotypic evolution?
+### *Tetragnatha* Population genomics (Hawai'i) ### 
+I am working on the repeated basis of phenotypic evolution (parallel/convergent evolution) of the Hawaiian *Tetragnatha* adaptive radiation. These spiders have repeatedly evolved four ecomorphs in different islands (green, which sits on leaves; maroon, which is moss-dwelling; small brown, living in twigs and branches; and large brown, living on tree bark). 
+Question: What is the genomic-basis of repeated phenotypic evolution?
 
 ### How do species evolve on islands?
 ### How are humans influencing the evolution of biodiversity?
