@@ -9,8 +9,8 @@ My research can be broadly organized into three questions:
 ## How do species adapt to (strikingly) different environments?
 To answer this question I focus on island adaptive radiations. An adaptive radiation is " a process in which organisms diversify rapidly from an ancestral species into a multitude of new forms, particularly when a change in the environment makes new resources available, alters biotic interactions or opens new environmental niches" (Wikipedia). On islands we observe closely related species and sister species withstanding very different environmental conditions - for instance, we observe two closely-related plants living in sun-exposed lava rocks or in the humid-highlands where there are permanent foggy conditions. How is this achieved?
 
-Some examples of work:
-##### Island Evolution - *Scalesia* #####
+Biological systems:
+#### *Scalesia* ####
 I am currently employed on the [DarwinPlants project](http://darwin-plants.com/). I am responsible for analysing genome evolution in the *Scalesia* genome (comparing to other Asteraceae), determine transcriptome-networks, the evolutionary history of the group, and analyse transposable element variation. Stay tuned!
 Questions: What is the genomic-basis of the plant island syndrome? Are transposable elements contributing to the observed morphological/ecological diversity in this lineage?
 
