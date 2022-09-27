@@ -5,15 +5,22 @@ permalink: /research/
 author_profile: true
 ---
 
-I am an evolutionary biologist with a background in ecology and genomics. During the last few years I have developed an interest in island biology and in using genomic tools to understand evolution in island-lineages.
+My research can be broadly organized into three questions:
+## How do species adapt to (strikingly) different environments?
+To answer this question I focus on island adaptive radiations. An adaptive radiation is " a process in which organisms diversify rapidly from an ancestral species into a multitude of new forms, particularly when a change in the environment makes new resources available, alters biotic interactions or opens new environmental niches" (Wikipedia). On islands we observe closely related species and sister species withstanding very different environmental conditions - for instance, we observe two closely-related plants living in sun-exposed lava rocks or in the humid-highlands where there are permanent foggy conditions. How is this achieved?
 
-### Island Evolution - *Scalesia* ###
+Some examples of work:
+##### Island Evolution - *Scalesia* #####
 I am currently employed on the [DarwinPlants project](http://darwin-plants.com/). I am responsible for analysing genome evolution in the *Scalesia* genome (comparing to other Asteraceae), determine transcriptome-networks, the evolutionary history of the group, and analyse transposable element variation. Stay tuned!
 Questions: What is the genomic-basis of the plant island syndrome? Are transposable elements contributing to the observed morphological/ecological diversity in this lineage?
 
 ### Island Evolution - *Tetragnatha* ### 
 I work with the Hawaiian *Tetragnatha* adaptive radiation'i together with [Professor Rosemary Gillespie at Berkeley](https://nature.berkeley.edu/evolab/). These spiders have repeatedly evolved four ecomorphs in different islands (green, which sits on leaves; maroon, which is moss-dwelling; small brown, living in twigs and branches; and large brown, living on tree bark). Basically, ecomorphs have repeatedly evolved, as Hawai'ian Islands are created by volcanic activity.
 Questions: What is the genomic-basis of repeated phenotypic evolution?
+
+### How do species evolve on islands?
+### How are humans influencing the evolution of biodiversity?
+
 
 ### Island Evolution - Sparrows ###
 Together with [Dr. Mark Ravinet at Nottingham](https://www.nottingham.ac.uk/research/groups/cells-organisms-and-molecular-genetics/people/mark.ravinet), we are working on the biogeography and adaptation to urban and arid conditions in the Cape Verde endemic sparrow species.
