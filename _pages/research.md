@@ -6,14 +6,19 @@ author_profile: true
 ---
 
 My research can be broadly organized into four questions:
-## How do species adapt to (strikingly) different environments?
+#### Q1 - How do species adapt to (strikingly) different environments?
+#### Q2 - How do species repeatedly adapt to the same environments?
+#### Q3 - How do species evolve on islands?
+#### Q4 - How do genomes evolve?
+
+## Q1 - How do species adapt to (strikingly) different environments?
 To answer this question I focus on island adaptive radiations. An adaptive radiation is " a process in which organisms diversify rapidly from an ancestral species into a multitude of new forms, particularly when a change in the environment makes new resources available, alters biotic interactions or opens new environmental niches" (Wikipedia). On islands we observe closely related species and sister species withstanding very different environmental conditions - for instance, we observe two closely-related plants living in sun-exposed lava rocks or in the humid-highlands where there are permanent foggy conditions. How is this achieved?
 
-Biological systems:
+### Biological systems:
 ### *Scalesia* Comparative genomics (Galápagos) ###
 As part of [DarwinPlants](http://darwin-plants.com/), I am studying the genomic-basis of insular evolution. The *Scalesia* lineage comprises >15 species distribured over coastal-arid, humid-highlands in the Galápagos. This involves obtaining reference genomes, comparing genomes, transposable elements, genes, transcriptome-networks.
 
-## How do species repeatedly adapt to the same environments?
+## Q2 - How do species repeatedly adapt to the same environments?
 ### *Tetragnatha* Population genomics (Hawai'i) ### 
 I am working on the repeated basis of phenotypic evolution (parallel/convergent evolution) of the Hawaiian *Tetragnatha* adaptive radiation. These spiders have repeatedly evolved four ecomorphs in different islands (green, which sits on leaves; maroon, which is moss-dwelling; small brown, living in twigs and branches; and large brown, living on tree bark). 
 Question: What is the genomic-basis of repeated phenotypic evolution?
