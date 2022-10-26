@@ -5,12 +5,12 @@ permalink: /research/
 author_profile: true
 ---
 
-#### My research can be broadly organized into five questions:
-#### Q1 - How do species adapt to (strikingly) different environments?
-#### Q2 - How do species repeatedly adapt to the same environments?
-#### Q3 - How do species evolve on islands?
-#### Q4 - How are humans influencing the evolution of biodiversity?
-#### Q5 - How do genomes evolve?
+My research can be broadly organized into five questions:
+Q1 - How do species adapt to (strikingly) different environments?
+Q2 - How do species repeatedly adapt to the same environments?
+Q3 - How do species evolve on islands?
+Q4 - How are humans influencing the evolution of biodiversity?
+Q5 - How do genomes evolve?
 
 ## Q1 - How do species adapt to (strikingly) different environments?
 To answer this question I focus on island adaptive radiations. An adaptive radiation is " a process in which organisms diversify rapidly from an ancestral species into a multitude of new forms, particularly when a change in the environment makes new resources available, alters biotic interactions or opens new environmental niches" (Wikipedia). On islands we observe closely related species and sister species withstanding very different environmental conditions - for instance, we observe two closely-related plants living in sun-exposed lava rocks or in the humid-highlands where there are permanent foggy conditions. How is this achieved?
