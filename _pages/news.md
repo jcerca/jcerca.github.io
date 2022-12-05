@@ -9,7 +9,7 @@ author_profile: true
 * 15/11/2022 - Frasella Martino Fonseca, from Colombia, will be joining me as a MSc student from the BiGTREE network.
 * 31/10/2022 - I'm teaching introduction to bioinformatics [for Forbio!](https://www.forbio.uio.no/events/courses/2022/bioinfo_intro_2022.html)
 * 01/10/2022 - I'm happy to announce I'll be joining Kjetill Jakobsen at the University of Oslo by January! 4 years postdoc associated with the [EBP-Nor](https://www.mn.uio.no/cees/english/research/groups/ebp-nor/)
-* 20/08/2022 - The ESEB symposium was a success - packed rooms, excellent thanks! Thanks to everyone who made it (speakers, posters, audience).
+* 20/08/2022 - The ESEB symposium was a success - we had a packed room! Thanks to everyone who made it (speakers, posters, audience).
 * 15/08/2022 - Back from some revitalizing holidays :)
 * 01/07/2022 - I wrote a paper on [parallel, repeated, convergent evolution](https://ecoevorxiv.org/g8u39/)
 * 01/06/2022 - Scalesia atractyloides genome paper accepted. Find [The genomic basis of the plant island syndrome in Darwin’s giant daisies here
