@@ -4,6 +4,10 @@ title: "News"
 permalink: /news/
 author_profile: true
 ---
+* 04/12/2022 - Teaching speciation genomics with two fantastic scientists I really enjoy working with, [Mark Ravinet and Joana Meier] (https://www.physalia-courses.org/courses-workshops/course37/)
+* 01/12/2022 - New pre-print, [Multiple paths towards repeated phenotypic evolution in the spiny-leg adaptive radiation (Tetragnatha; Hawai'i)](https://www.biorxiv.org/content/10.1101/2022.11.29.518358v1.full.pdf+html)
+* 15/11/2022 - Frasella Martino Fonseca, from Colombia, will be joining me as a MSc student from the BiGTREE network.
+* 31/10/2022 - I'm teaching introduction to bioinformatics [for Forbio!](https://www.forbio.uio.no/events/courses/2022/bioinfo_intro_2022.html)
 * 01/10/2022 - I'm happy to announce I'll be joining Kjetill Jakobsen at the University of Oslo by January! 4 years postdoc associated with the [EBP-Nor](https://www.mn.uio.no/cees/english/research/groups/ebp-nor/)
 * 20/08/2022 - The ESEB symposium was a success - packed rooms, excellent thanks! Thanks to everyone who made it (speakers, posters, audience).
 * 15/08/2022 - Back from some revitalizing holidays :)
