@@ -4,6 +4,9 @@ title: "News"
 permalink: /news/
 author_profile: true
 ---
+* 10/01/2023 - Short visit at the University of Nottingham! I got to meet and discuss with wonderful people (Mary O'Connell, Andrew Maccoll, Levi Yant, among others) - thanks to Mark Ravinet for inviting me.
+* 07/01/2023 - Just participated in the PopGroup UK meeting. What a fantastic conference.
+* 01/01/2023 - Started a new postdoc at the University of Oslo after leaving to Berkeley 3 years ago. Feels good to be back - new principal investigator, new center, new department
 * 04/12/2022 - Teaching speciation genomics with two fantastic scientists I really enjoy working with, [Mark Ravinet and Joana Meier](https://www.physalia-courses.org/courses-workshops/course37/)
 * 01/12/2022 - New pre-print, [Multiple paths towards repeated phenotypic evolution in the spiny-leg adaptive radiation (Tetragnatha; Hawai'i)](https://www.biorxiv.org/content/10.1101/2022.11.29.518358v1.full.pdf+html)
 * 15/11/2022 - Frasella Martino Fonseca, from Colombia, will be joining me as a MSc student from the BiGTREE network.
