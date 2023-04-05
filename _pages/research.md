@@ -5,47 +5,51 @@ permalink: /research/
 author_profile: true
 ---
 
-My research can be broadly organized into five questions:
-Q1 - How do species adapt to (strikingly) different environments?
-Q2 - How do species repeatedly adapt to the same environments?
-Q3 - How do species evolve on islands?
-Q4 - How are humans influencing the evolution of biodiversity?
-Q5 - How do genomes evolve?
-
 ## Q1 - How do species adapt to (strikingly) different environments?
-To answer this question I focus on island adaptive radiations. An adaptive radiation is " a process in which organisms diversify rapidly from an ancestral species into a multitude of new forms, particularly when a change in the environment makes new resources available, alters biotic interactions or opens new environmental niches" (Wikipedia). On islands we observe closely related species and sister species withstanding very different environmental conditions - for instance, we observe two closely-related plants living in sun-exposed lava rocks or in the humid-highlands where there are permanent foggy conditions. How is this achieved?
+Picture a species that has adapted to a desert. Now imagine that the ' ancestral state ', i.e. environment from which the species adapted from, was the either the arctic (remarkably distinct than the desert) or a drylands (not so different). What genomic and phenotypic changes would a remakably distinct environment vs a not-so-different environment require?
+
+To answer this question, I focus on island adaptive radiations (an adaptive radiation is " a process in which organisms diversify rapidly from an ancestral species into a multitude of new forms, particularly when a change in the environment makes new resources available, alters biotic interactions or opens new environmental niches "; definition from Wikipedia). On islands we observe closely related species withstanding very different environmental conditions.
 
 ### Biological systems:
-#### *Scalesia* Comparative genomics (Galápagos) ###
-As part of [DarwinPlants](http://darwin-plants.com/), I am studying the genomic-basis of insular evolution. The *Scalesia* lineage comprises >15 species distribured over coastal-arid, humid-highlands in the Galápagos. This involves obtaining reference genomes, comparing genomes, transposable elements, genes, transcriptome-networks.
+#### *Scalesia* (Galápagos) ###
+The *Scalesia* lineage comprises >15 species distribured over coastal-arid, humid-highlands in the Galápagos. I've been obtaining reference genomes, comparing genomes, transposable elements, genes, transcriptome-networks.
+Main collaborators: Gonzalo Rivas-Torres, Juan Guevara, Maria de Lourdes Torres, Hugo Valdebenito Milling, Patricia Jaramillo
 
 ## Q2 - How do species repeatedly adapt to the same environments?
-### Biological systems:
+Imagine a group of species that has adapted three times independently to a desert. Did they use the same genes? Did they evolve the same phenotypes?
+
+I answer this question by focusing on instances of parallel/convergent/repeated phenotypic evolution in adaptive radiations.
+
+### Biological systems
 #### *Tetragnatha* Population genomics (Hawai'i) ### 
-I am working on the repeated basis of phenotypic evolution (parallel/convergent evolution) of the Hawaiian *Tetragnatha* adaptive radiation. These spiders have repeatedly evolved four ecomorphs in different islands (green, which sits on leaves; maroon, which is moss-dwelling; small brown, living in twigs and branches; and large brown, living on tree bark). 
-Question: What is the genomic-basis of repeated phenotypic evolution?
+I am working on the repeated basis of phenotypic evolution (parallel/convergent evolution) of the Hawaiian *Tetragnatha* adaptive radiation where four ecomorphs have repeatedly evolved (green, which sits on leaves; maroon, which is moss-dwelling; small brown, living in twigs and branches; and large brown, living on tree bark).
+Main collaborators: Rosemary Gillespie, Darko Cotoras
 
 ## Q3 - How do species evolve on islands?
-Answering this question involves studying biogeography, population-connectivity and differentiation (popgen!), and species/population relatedness (phylogenetics).
+Species on islands just look remarkably distinct from continental species (coconut crab, dodo, daisy-trees). The island syndrome "describes the differences in morphology, ecology, physiology and behaviour of insular species compared to their continental counterparts" (wikipedia). To answer this question I study phenotypic and genome evolution in island taxa.
 
 ### Biological systems:
 #### Galápagos Prickly pears Population genomics ###
-In this collaboration with Felipe Zapata, John McCormack, Jaime Chaves, Gonzalo Rivas-Torres (and others), we're studying the evolutionary history of Galápagos cacti. Closely related populations are phenotypically trees (12 meters tall) or very small shrubs. The prickly pears just have so much variation in terms of diversity, variation, and we're only starting.
-Question: Is the Opuntia lineage undergoing an adaptive radiation on the Galápagos?
+We're studying the evolutionary history of Galápagos cacti. Closely related populations are phenotypically trees (12 meters tall) or very small shrubs. The prickly pears just have so much variation in terms of diversity, variation, and we're only starting.
+Main collaborators: Felipe Zapata, John McCormack, Jaime Chaves, Gonzalo Rivas-Torres
 
-#### Galápagos lava lizards ###
-Collaboration starting with Juan Manuel Guayasamin (and others) - still getting off the ground.
-Question: Are lava lizards undergoing ecological speciation?
+## Q4 - What is the role of ecology in evolution?
+There is an increasing interest of the role of ecology in speciation (ecological speciation) and adaptation (adaptive radiation). However, some really fascinating biological groups have evolved without ecological differences. How? Why?
 
-## Q4 - How are humans influencing the evolution of biodiversity?
+### Biological systems:
+#### Galápagos lava lizards
+Collaboration starting with Juan Manuel Guayasamin (and others) - still getting off the ground - where we are exploring non-adaptive radiations.
+Main collaborators: Juan Manuel Guayasamin.
+
+## Q5 - How are humans influencing the evolution of biodiversity?
 Humans have a pervasive impact on biodiversity. I am interested in understanding how species can evolve to cope with human activities and within the context of human environments.
 
 ### Biological systems:
 #### Cape verde endemic sparrows ###
 Together with [Dr. Mark Ravinet at Nottingham](https://www.nottingham.ac.uk/research/groups/cells-organisms-and-molecular-genetics/people/mark.ravinet), we are working on the adaptation to human and wild conditions in the Cape Verde endemic sparrow species.
 
-## Q5 - How do genomes evolve?
-I work on comparative genomics of various taxa: by comparing genomes I try understand how genes, transposable elements and other genomic features are distributed throughtout the genome and how they influence the evolution of species. More to come on that.
+## Q7 - How do genomes evolve?
+I work on comparative genomics of various taxa: by comparing genomes I try understand how genes, transposable elements and other genomic features are distributed throughtout the genome and how they influence the evolution of species.
 
 
 ### Past Research ###
