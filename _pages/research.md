@@ -45,8 +45,12 @@ Main collaborators: Juan Manuel Guayasamin.
 Humans have a pervasive impact on biodiversity. I am interested in understanding how species can evolve to cope with human activities and within the context of human environments.
 
 ### Biological systems:
-#### Cape verde endemic sparrows ###
+#### Cape verde endemic sparrows
 Together with [Dr. Mark Ravinet at Nottingham](https://www.nottingham.ac.uk/research/groups/cells-organisms-and-molecular-genetics/people/mark.ravinet), we are working on the adaptation to human and wild conditions in the Cape Verde endemic sparrow species.
+
+#### Norwegian Reindeer
+I'm sequencing the genomes of feral, domestic and wild reindeers.
+Main collaborator: Atle Mysterud.
 
 ## Q7 - How do genomes evolve?
 I work on comparative genomics of various taxa: by comparing genomes I try understand how genes, transposable elements and other genomic features are distributed throughtout the genome and how they influence the evolution of species.
