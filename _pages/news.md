@@ -4,6 +4,9 @@ title: "News"
 permalink: /news/
 author_profile: true
 ---
+* 05/04/2023 - My collaborator Lois just got funded for us to sequence genomes of European Crossbill species! Yet another fun project starting :)
+* 03/04/2023 - Working on DNA extractions of Norwegian (semi-)domesticated and wild reindeer! More to come in the upcoming years.
+* 30/03/2023 - I was invited to interview for the ERC Starting Grant. I'm as humbled as I am frightened!
 * 10/01/2023 - Short visit at the University of Nottingham! I got to meet and discuss with wonderful people (Mary O'Connell, Andrew Maccoll, Levi Yant, among others) - thanks to Mark Ravinet for inviting me.
 * 07/01/2023 - Just participated in the PopGroup UK meeting. What a fantastic conference.
 * 01/01/2023 - Started a new postdoc at the University of Oslo after leaving to Berkeley 3 years ago. Feels good to be back - new principal investigator, new center, new department
