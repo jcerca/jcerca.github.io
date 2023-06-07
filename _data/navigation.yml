@@ -10,7 +10,7 @@ main:
     url: /links/
     
   - title: "CV"
-    url: /files/Jc_202305.pdf
+    url: https://docs.google.com/document/d/1hed8_m4HZszFTc8yuwT0jYPseQNj68rbrX9qjYWUna8
     
   - title: "Research"
     url: /research/
