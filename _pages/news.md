@@ -4,6 +4,8 @@ title: "News"
 permalink: /news/
 author_profile: true
 ---
+* 01/07/2023 - Trends in Ecology and Evolution selected our paper to be the cover!
+* 05/06/2023 - ERC Starting Grant interview day ... now for the waiting game :)
 * 05/04/2023 - My collaborator Lois just got funded for us to sequence genomes of European Crossbill species! Yet another fun project starting :)
 * 03/04/2023 - Working on DNA extractions of Norwegian (semi-)domesticated and wild reindeer! More to come in the upcoming years.
 * 30/03/2023 - I was invited to interview for the ERC Starting Grant. I'm as humbled as I am frightened!
