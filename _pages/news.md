@@ -4,7 +4,7 @@ title: "News"
 permalink: /news/
 author_profile: true
 ---
-* 15/07/2023 - My collaborator Juan Guevara Andino just got a project funded to explore functional traits in diverse Galápagos plant groups. Way to go!!
+* 15/07/2023 - My collaborator Juan Guevara Andino just got a project funded to explore functional traits in diverse Galápagos plant groups. Let's go!!
 * 10/07/2023 - (co-authored) Paper accepted in the Cold Spring Harbor Press, Perspectives in Biology!
 * 10/07/2023 - Paper accepted in Molecular Ecology :)
 * 07/07/2023 - Participating in the [Island Biology Conference](https://islandbiology.com/) was tons of fun.
