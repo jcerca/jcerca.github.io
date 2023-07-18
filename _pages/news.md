@@ -4,7 +4,11 @@ title: "News"
 permalink: /news/
 author_profile: true
 ---
-* 01/07/2023 - Trends in Ecology and Evolution selected our paper to be the cover!
+* 15/07/2023 - My collaborator Juan Guevara Andino just got a project funded to explore functional traits in diverse Galápagos plant groups. Way to go!!
+* 10/07/2023 - (co-authored) Paper accepted in the Cold Spring Harbor Press, Perspectives in Biology!
+* 10/07/2023 - Paper accepted in Molecular Ecology :)
+* 07/07/2023 - Participating in the [Island Biology Conference](https://islandbiology.com/) was tons of fun.
+* 01/07/2023 - Trends in Ecology and Evolution selected our paper to be [their July cover!](https://www.cell.com/trends/ecology-evolution/issue?pii=S0169-5347(22)X0008-6)
 * 05/06/2023 - ERC Starting Grant interview day ... now for the waiting game :)
 * 05/04/2023 - My collaborator Lois just got funded for us to sequence genomes of European Crossbill species! Yet another fun project starting :)
 * 03/04/2023 - Working on DNA extractions of Norwegian (semi-)domesticated and wild reindeer! More to come in the upcoming years.
