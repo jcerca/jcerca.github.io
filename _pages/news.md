@@ -4,6 +4,7 @@ title: "News"
 permalink: /news/
 author_profile: true
 ---
+* 19/07/2023 - ERC StG rejected - I did get many good comments am starting the motors to get it submitted in October!
 * 15/07/2023 - My collaborator Juan Guevara Andino just got a project funded to explore functional traits in diverse Galápagos plant groups. Let's go!!
 * 10/07/2023 - (co-authored) Paper accepted in the Cold Spring Harbor Press, Perspectives in Biology!
 * 10/07/2023 - Paper accepted in Molecular Ecology :)
