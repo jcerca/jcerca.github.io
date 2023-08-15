@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-TL;DR I work on the interception of ecology and evolution, focusing on improving the integration of genomic data with phenotypic and environmental data, primarily on insular taxa.
+# TL;DR I work on the interception of ecology and evolution, focusing on improving the integration of genomic data with phenotypic and environmental data, primarily on insular taxa.
 
 ## Q1 - How do species adapt to (strikingly) different environments?
 Picture a species that has adapted to a desert. Now imagine that the ' ancestral state ', i.e. environment from which the species adapted from, was either the arctic (remarkably distinct from a desert) or a dryland (not so different from a desert). What genomic and phenotypic changes would a remarkably distinct environment vs a not-so-different environment require?
