@@ -5,33 +5,30 @@ permalink: /research/
 author_profile: true
 ---
 
-## Q1 - How do species adapt to (strikingly) different environments?
-Picture a species that has adapted to a desert. Now imagine that the ' ancestral state ', i.e. environment from which the species adapted from, was the either the arctic (remarkably distinct than the desert) or a drylands (not so different). What genomic and phenotypic changes would a remakably distinct environment vs a not-so-different environment require?
+TL;DR I work on the interception of ecology and evolution, focusing on improving the integration of genomic data with phenotypic and environmental data, primarily on insular taxa.
 
-To answer this question, I focus on island adaptive radiations (an adaptive radiation is " a process in which organisms diversify rapidly from an ancestral species into a multitude of new forms, particularly when a change in the environment makes new resources available, alters biotic interactions or opens new environmental niches "; definition from Wikipedia). On islands we observe closely related species withstanding very different environmental conditions.
+## Q1 - How do species adapt to (strikingly) different environments?
+Picture a species that has adapted to a desert. Now imagine that the ' ancestral state ', i.e. environment from which the species adapted from, was either the arctic (remarkably distinct from a desert) or a dryland (not so different from a desert). What genomic and phenotypic changes would a remarkably distinct environment vs a not-so-different environment require?
 
 ### Biological systems:
 #### *Scalesia* (Galápagos) ###
-The *Scalesia* lineage comprises >15 species distribured over coastal-arid, humid-highlands in the Galápagos. I've been obtaining reference genomes, comparing genomes, transposable elements, genes, transcriptome-networks.
-Main collaborators: Gonzalo Rivas-Torres, Juan Guevara, Maria de Lourdes Torres, Hugo Valdebenito Milling, Patricia Jaramillo
+#### Main collaborators: Gonzalo Rivas-Torres, Juan Guevara Andino, Mike Martin, Loren Rieseberg, Neelima Sinha
 
 ## Q2 - How do species repeatedly adapt to the same environments?
-Imagine a group of species that has adapted three times independently to a desert. Did they use the same genes? Did they evolve the same phenotypes?
+Imagine a group of species that has adapted five times independently to a desert. Do they use the same genes/parts of the genome? Did they evolve the same phenotypes?
 
 I answer this question by focusing on instances of parallel/convergent/repeated phenotypic evolution in adaptive radiations.
 
 ### Biological systems
 #### *Tetragnatha* Population genomics (Hawai'i) ### 
-I am working on the repeated basis of phenotypic evolution (parallel/convergent evolution) of the Hawaiian *Tetragnatha* adaptive radiation where four ecomorphs have repeatedly evolved (green, which sits on leaves; maroon, which is moss-dwelling; small brown, living in twigs and branches; and large brown, living on tree bark).
-Main collaborators: Rosemary Gillespie, Darko Cotoras
+#### Main collaborators: Rosemary Gillespie, Darko Cotoras
 
 ## Q3 - How do species evolve on islands?
-Species on islands just look remarkably distinct from continental species (coconut crab, dodo, daisy-trees). The island syndrome "describes the differences in morphology, ecology, physiology and behaviour of insular species compared to their continental counterparts" (wikipedia). To answer this question I study phenotypic and genome evolution in island taxa.
+Species on islands just look remarkably distinct from continental species (think of the coconut crab, the dodo, daisy-trees). The island syndrome "describes the differences in morphology, ecology, physiology and behaviour of insular species compared to their continental counterparts" (wikipedia). To answer this question I study phenotypic and genome evolution in island taxa.
 
 ### Biological systems:
 #### Galápagos Prickly pears Population genomics ###
-We're studying the evolutionary history of Galápagos cacti. Closely related populations are phenotypically trees (12 meters tall) or very small shrubs. The prickly pears just have so much variation in terms of diversity, variation, and we're only starting.
-Main collaborators: Felipe Zapata, John McCormack, Jaime Chaves, Gonzalo Rivas-Torres
+#### Main collaborators: Felipe Zapata, John McCormack, Jaime Chaves, Gonzalo Rivas-Torres
 
 ## Q4 - What is the role of ecology in evolution?
 There is an increasing interest of the role of ecology in speciation (ecological speciation) and adaptation (adaptive radiation). However, some really fascinating biological groups have evolved without ecological differences. How? Why?
