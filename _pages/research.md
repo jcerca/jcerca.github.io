@@ -15,9 +15,7 @@ Picture a species that has adapted to a desert. Now imagine that the ' ancestral
 #### Main collaborators: Gonzalo Rivas-Torres, Juan Guevara Andino, Mike Martin, Loren Rieseberg, Neelima Sinha
 
 ## Q2 - How do species repeatedly adapt to the same environments?
-Imagine a group of species that has adapted five times independently to a desert. Do they use the same genes/parts of the genome? Did they evolve the same phenotypes?
-
-I answer this question by focusing on instances of parallel/convergent/repeated phenotypic evolution in adaptive radiations.
+Imagine a group of species that has adapted five times independently to a desert. Do they use the same genes/parts of the genome? Did they evolve the same phenotypes? I answer this question by focusing on instances of parallel/convergent/repeated phenotypic evolution in adaptive radiations.
 
 ### Biological systems
 #### *Tetragnatha* Population genomics (Hawai'i) ### 
@@ -25,7 +23,6 @@ I answer this question by focusing on instances of parallel/convergent/repeated 
 
 ## Q3 - How do species evolve on islands?
 Species on islands just look remarkably distinct from continental species (think of the coconut crab, the dodo, daisy-trees). The island syndrome "describes the differences in morphology, ecology, physiology and behaviour of insular species compared to their continental counterparts" (wikipedia). To answer this question I study phenotypic and genome evolution in island taxa.
-
 ### Biological systems:
 #### Galápagos Prickly pears Population genomics ###
 #### Main collaborators: Felipe Zapata, John McCormack, Jaime Chaves, Gonzalo Rivas-Torres
@@ -35,22 +32,17 @@ There is an increasing interest of the role of ecology in speciation (ecological
 
 ### Biological systems:
 #### Galápagos lava lizards
-Collaboration starting with Juan Manuel Guayasamin (and others) - still getting off the ground - where we are exploring non-adaptive radiations.
-Main collaborators: Juan Manuel Guayasamin.
+#### Main collaborators: Juan Manuel Guayasamin (still getting off the ground).
 
 ## Q5 - How are humans influencing the evolution of biodiversity?
 Humans have a pervasive impact on biodiversity. I am interested in understanding how species can evolve to cope with human activities and within the context of human environments.
 
 ### Biological systems:
-#### Cape verde endemic sparrows
-Together with [Dr. Mark Ravinet at Nottingham](https://www.nottingham.ac.uk/research/groups/cells-organisms-and-molecular-genetics/people/mark.ravinet), we are working on the adaptation to human and wild conditions in the Cape Verde endemic sparrow species.
-
-#### Norwegian Reindeer
-I'm sequencing the genomes of feral, domestic and wild reindeers.
-Main collaborator: Atle Mysterud.
+#### Cape verde endemic sparrows, Norwegian Reindeer
+#### Main Collaborator: Mark Ravinet, Atle Mysterud
 
 ## Q7 - How do genomes evolve?
-I work on comparative genomics of various taxa: by comparing genomes I try understand how genes, transposable elements and other genomic features are distributed throughtout the genome and how they influence the evolution of species.
+I work on 'comparative genomics' of various taxa: by comparing genomes I associate changes in genes, transposable elements and other genomic features with environmental events and lineage-traits.
 
 
 ### Past Research ###
