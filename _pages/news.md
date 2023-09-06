@@ -4,10 +4,13 @@ title: "News"
 permalink: /news/
 author_profile: true
 ---
+* 01/09/2023 - Paper accepted in Molecular Ecology!
+* 20/08/2023 - Ivo Cerca Knutsen was born today - and I'll be off for a couple of weeks for paternity leave (then leave again between January-July 2024).
 * 19/07/2023 - ERC StG rejected - I did get many good comments am starting the motors to get it submitted in October!
 * 15/07/2023 - My collaborator Juan Guevara Andino just got a project funded to explore functional traits in diverse Galápagos plant groups. Let's go!!
 * 10/07/2023 - (co-authored) Paper accepted in the Cold Spring Harbor Press, Perspectives in Biology!
-* 10/07/2023 - Paper accepted in Molecular Ecology :)
+* 10/07/2023 - Paper accepted in Molecular Ecology - [Multiple paths toward repeated phenotypic evolution in the spiny-leg adaptive radiation (Tetragnatha; Hawai'i)
+](https://onlinelibrary.wiley.com/doi/full/10.1111/mec.17082)
 * 07/07/2023 - Participating in the [Island Biology Conference](https://islandbiology.com/) was tons of fun.
 * 01/07/2023 - Trends in Ecology and Evolution selected our paper to be [their July cover!](https://www.cell.com/trends/ecology-evolution/issue?pii=S0169-5347(22)X0008-6)
 * 05/06/2023 - ERC Starting Grant interview day ... now for the waiting game :)
