@@ -4,8 +4,8 @@ title: "News"
 permalink: /news/
 author_profile: true
 ---
-* 01/09/2023 - Paper accepted in Molecular Ecology!
-* 20/08/2023 - Ivo Cerca Knutsen was born today - and I'll be off for a couple of weeks for paternity leave (then leave again between January-July 2024).
+* 19/09/2023 - My opinion piece on [parallel, repeated and convergent evolution is now published in Molecular Ecology!](https://onlinelibrary.wiley.com/doi/full/10.1111/mec.17132)
+* 20/08/2023 - Ivo Cerca Knutsen was born today - and I'll be off for a couple of weeks for paternity leave (then leave again between February-July 2024).
 * 19/07/2023 - ERC StG rejected - I did get many good comments am starting the motors to get it submitted in October!
 * 15/07/2023 - My collaborator Juan Guevara Andino just got a project funded to explore functional traits in diverse Galápagos plant groups. Let's go!!
 * 10/07/2023 - (co-authored) Paper accepted in the Cold Spring Harbor Press, Perspectives in Biology!
