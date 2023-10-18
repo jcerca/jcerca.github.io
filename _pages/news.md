@@ -4,6 +4,8 @@ title: "News"
 permalink: /news/
 author_profile: true
 ---
+* 18/10/2023 - ERC resubmitted. Fingers crossed! Time to do some research (some cool transposable element work on spiders, fish and plants to come out within the next few weeks).
+* 05/10/2023 - Are you perhaps interested in [Giant Galápagos cacti?](https://www.biorxiv.org/content/10.1101/2023.10.03.560736v1) Check out my co-first authored pre-print with Felipe Zapata :)
 * 19/09/2023 - My opinion piece on [parallel, repeated and convergent evolution is now published in Molecular Ecology!](https://onlinelibrary.wiley.com/doi/full/10.1111/mec.17132)
 * 20/08/2023 - Ivo Cerca Knutsen was born today - and I'll be off for a couple of weeks for paternity leave (then leave again between February-July 2024).
 * 19/07/2023 - ERC StG rejected - I did get many good comments am starting the motors to get it submitted in October!
