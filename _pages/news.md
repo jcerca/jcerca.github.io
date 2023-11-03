@@ -4,10 +4,10 @@ title: "News"
 permalink: /news/
 author_profile: true
 ---
-* 02/11/2023 - I will be hosting two MSc students the next two years as part of the BiGTREE network: Diego Ccamayo from Peru and Geraldine Rueds from Colombia.
+* 02/11/2023 - I will be hosting two MSc students the next two years as part of the BiGTREE network: Diego Ccamayo from Peru and Geraldine Rueds from Colombia - I'll be proposing some (cool) simulations using SLIM :)
 * 01/11/2023 - I will be going to the Canary Islands to visit Brent Emerson in January! I so look forward to this.
-* 01/11/2023 - We got some generous funding from NORBIS to organize two courses: one on comparative genomics, another on Ancestral Recombination Graphs. By, "we", I am including my brilliant and kind colleague, Ole Tørresen.
-* 25/10/2023 - Rejected by the Norwegisn Research Council. Science can be (is) difficult.
+* 01/11/2023 - We got some generous funding from NORBIS to organize two courses: one on comparative genomics (April), another on Ancestral Recombination Graphs (tentatively August). By, "we", I am including my brilliant and kind colleague, Ole Tørresen.
+* 25/10/2023 - Rejected by the Norwegian Research Council (with high scores). Science can be (is) difficult.
 * 18/10/2023 - ERC resubmitted. Fingers crossed! Time to do some research (some cool transposable element work on spiders, fish and plants to come out within the next few weeks).
 * 05/10/2023 - Check out our pre-print on [Giant Galápagos cacti?](https://www.biorxiv.org/content/10.1101/2023.10.03.560736v1), co-first authored by me and Felipe Zapata :)
 * 19/09/2023 - My opinion piece on [parallel, repeated and convergent evolution is now published in Molecular Ecology!](https://onlinelibrary.wiley.com/doi/full/10.1111/mec.17132)
