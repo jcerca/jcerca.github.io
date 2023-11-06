@@ -4,7 +4,7 @@ title: "News"
 permalink: /news/
 author_profile: true
 ---
-* 07/11/2033 - I signed up for the Spanish meeting in evolutionary biology in Málaga - vamos! I'll be returning to Spain in the summer to give an invited talk in the [XX international botany conference](https://ibcmadrid2024.com/?seccion=scientificArea&subSeccion=detailSymposiums&idCom=MTQy). Really, really looking forward to this. :)
+* 07/11/2033 - I just signed up for the [Spanish meeting in evolutionary biology in Málaga](https://www.sesbe2024.es/) - vamos! I'll be returning to Spain in the summer to give an invited talk in the [XX international botany conference](https://ibcmadrid2024.com/?seccion=scientificArea&subSeccion=detailSymposiums&idCom=MTQy). Really, really looking forward to this. :)
 * 06/11/2033 - (co-authored) Paper accepted! "Fruit wings accelerate germination in Anacyclus clavatus (Asteraceae)" in the American Journal of Botany. From my times as MSc student in Ecology. :)
 * 02/11/2023 - I will be hosting two MSc students the next two years as part of the BiGTREE network: Diego Salazar Ccatamayo from Peru and Geraldine Rueda from Colombia - I'll be suggesting we do some (cool) simulations using SLIM under some scenarios of island colonization :)
 * 01/11/2023 - I will be going to the Canary Islands to visit Brent Emerson in January! I so look forward to this.
