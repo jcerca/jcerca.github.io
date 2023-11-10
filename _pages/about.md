@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Naturally, selected!"
+title: "Welcome"
 excerpt: "About me"
 author_profile: true
 ---
