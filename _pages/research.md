@@ -5,47 +5,20 @@ permalink: /research/
 author_profile: true
 ---
 
-# TL;DR/Summary I work on the intersection of ecology and evolution. I concentrate on enhancing the integration of genomic data, phenotypic observations, and environmental information, with a primary focus on species inhabiting islands.
+## Summary: I work on the intersection of ecology and evolution, with a strong focus on genomic data and on species inhabiting islands.
 
-## Q1 - How do species adapt to (strikingly) different environments?
-Picture a species that has adapted to a desert. Now imagine that the ' ancestral state ', i.e. environment from which the species adapted from, was either the arctic (remarkably distinct from a desert) or a dryland (not so different from a desert). What genomic and phenotypic changes would a remarkably distinct environment vs a not-so-different environment require?
+## Biological systems I am currently focusing (have focused)
+1) Hawaiian _Tetragnatha_ spiders (I did a project with Rosemary Gillespie on this system). I have published [the genome of one species, finding that spiders have expansions associated with chemosensory](https://academic.oup.com/gbe/article/13/12/evab262/6443144), [worked on population genomics of the system, finding multiple genetic sources underlying repeated evolution](https://onlinelibrary.wiley.com/doi/10.1111/mec.17082). My former student, Heidi Yang ( now at UCLA ) is currently submitting a manuscript on transposable element evolution in this system.
+2) Galápagos _Scalesia_ (I did a postdoc with Mike Martin and Loren Rieseberg on the system). I published [an approach to separate subgenomes on a polyploid assembly](https://www.nature.com/articles/s41467-022-31280-w), and a [perspective on island radiations](https://www.cell.com/trends/ecology-evolution/fulltext/S0169-5347(23)00032-0). I am currently finishing a manuscript on transposable element evolution. I am currently working on developing the ecology & phenotypes of Scalesia with Juan Andino, Gonzalo Rivas-Torres and others.
+3) Galápagos Opuntia (Side project with Gonzalo-Rivas and Felipe Zapata). We have released a [biogeographic story on rXiv](https://www.biorxiv.org/content/10.1101/2023.10.03.560736v1)
+4) Cabo Verde endemic sparrows (side project with Martim Melo, Ângela Ribeiro, Rauri Bowie and Mark Ravinet). News soon - we have a cool manuscript focusing on the idea of 'evolutionary success'.
 
-### Biological systems:
-#### *Scalesia* (Galápagos) ###
-#### Main collaborators: Gonzalo Rivas-Torres, Juan Guevara Andino, Mike Martin, Loren Rieseberg, Neelima Sinha
+Other systems:
+1) Cod fishes  (project with Kjetill S. Jakobsen, Ole Tørresen, Sissel Jentoft, in Oslo) - Transposable element and genome structure evolution.
+2) Reindeer (project with Atle Mysterud, in Oslo) - Human impact on genomes.
 
-## Q2 - How do species repeatedly adapt to the same environments?
-Imagine a group of species that has adapted five times independently to a desert. Do they use the same genes/parts of the genome? Did they evolve the same phenotypes? I answer this question by focusing on instances of parallel/convergent/repeated phenotypic evolution in adaptive radiations.
 
-### Biological systems
-#### *Tetragnatha* Population genomics (Hawai'i) ### 
-#### Main collaborators: Rosemary Gillespie, Darko Cotoras
-
-## Q3 - How do species evolve on islands?
-Species on islands just look remarkably distinct from continental species (think of the coconut crab, the dodo, daisy-trees). The island syndrome "describes the differences in morphology, ecology, physiology and behaviour of insular species compared to their continental counterparts" (wikipedia). To answer this question I study phenotypic and genome evolution in island taxa.
-### Biological systems:
-#### Galápagos Prickly pears Population genomics ###
-#### Main collaborators: Felipe Zapata, John McCormack, Jaime Chaves, Gonzalo Rivas-Torres
-
-## Q4 - What is the role of ecology in evolution?
-There is an increasing interest of the role of ecology in speciation (ecological speciation) and adaptation (adaptive radiation). However, some really fascinating biological groups have evolved without ecological differences. How? Why?
-
-### Biological systems:
-#### Galápagos lava lizards
-#### Main collaborators: Juan Manuel Guayasamin (still getting off the ground).
-
-## Q5 - How are humans influencing the evolution of biodiversity?
-Humans have a pervasive impact on biodiversity. I am interested in understanding how species can evolve to cope with human activities and within the context of human environments.
-
-### Biological systems:
-#### Cape verde endemic sparrows, Norwegian Reindeer
-#### Main Collaborator: Mark Ravinet, Atle Mysterud
-
-## Q7 - How do genomes evolve?
-I work on 'comparative genomics' of various taxa: by comparing genomes I associate changes in genes, transposable elements and other genomic features with environmental events and lineage-traits.
-### Main Collaborator: Kjetill Jakobsen, OK Tørresen
-
-### Past Research ###
+## Past Research
 ### Cryptic species ###
 Cryptic species are morphologically similar species. I did my PhD with [Torsten H. Struck in Oslo](https://www.nhm.uio.no/english/about/organization/research-collections/people/torsths/), where we investigated the lineage history of species which have been morphologically identical for >100 million years! It is a pretty cool topic, and you can see our [lengthy review here](https://www.sciencedirect.com/science/article/abs/pii/S0169534717302902), as well as where we [describe some new species](https://www.sciencedirect.com/science/article/pii/S1055790319303975), and [where we suggest a pattern of deceleration of morphological evolution!](https://onlinelibrary.wiley.com/doi/full/10.1111/evo.13884)
 
