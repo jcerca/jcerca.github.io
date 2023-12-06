@@ -7,7 +7,7 @@ author_profile: true
 
 For an all-time updated version of my publication list and citations, please see my [scholar profile](https://scholar.google.pt/citations?user=ZI1vWPEAAAAJ&hl=en), many of these papers are available through my [researchgate](https://www.researchgate.net/profile/Jose_Cerca) profile.
 
-(updated 01/11/2023)
+(updated 01/12/2023)
 
 ### Some publications I am particularly happy about :)
 
