@@ -4,6 +4,8 @@ title: "News"
 permalink: /news/
 author_profile: true
 ---
+* 23/01/2024 - New paper out, from my times as a MSc student [Fruit wings accelerate germination in Anacyclus clavatus
+](https://bsapubs.onlinelibrary.wiley.com/doi/abs/10.1002/ajb2.16272)
 * 07/01/2024 - Yang et al; Preprint out and paper submitted. "[Consistent accumulation of transposable elements in species of the Hawaiian Tetragnatha spiny-leg adaptive radiation across the archipelago chronosequence](https://www.biorxiv.org/content/10.1101/2024.01.03.574070v1)" - my first 'senior' author paper, led by a (then) BSc student from Berkeley - the fantastic Heidi Yang!
 * 06/01/2024 - Happy new year from the Canary islands - where I am visiting Brent Emerson and 'botanizing' :).
 * 05/12/2023 - Join us for the [Oslo Bioinformatics week](https://www.mn.uio.no/sbi/english/events/oslo-bioinformatics-workshop-week-2023/index.html), where I'll be teaching comparative genomics with other colleagues from EBP (Ole Tørresen, Helle T. Baalsrud, & Bram Danneels). I'm in charge of the dN/dS part :)
