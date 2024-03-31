@@ -4,6 +4,7 @@ title: "News"
 permalink: /news/
 author_profile: true
 ---
+* 01/02/2024 - On paternity leave - back in August!
 * 23/01/2024 - New paper out, from my times as a MSc student [Fruit wings accelerate germination in Anacyclus clavatus
 ](https://bsapubs.onlinelibrary.wiley.com/doi/abs/10.1002/ajb2.16272)
 * 07/01/2024 - Yang et al; Preprint out and paper submitted. "[Consistent accumulation of transposable elements in species of the Hawaiian Tetragnatha spiny-leg adaptive radiation across the archipelago chronosequence](https://www.biorxiv.org/content/10.1101/2024.01.03.574070v1)" - my first 'senior' author paper, led by a (then) BSc student from Berkeley - the fantastic Heidi Yang!
