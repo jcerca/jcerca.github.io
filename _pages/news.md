@@ -4,6 +4,9 @@ title: "News"
 permalink: /news/
 author_profile: true
 ---
+* 12/08/2024 - Geraldine Rueda-Muñoz and Diego Salazar have joined me as MSc students!
+* 12/08/2024 - Back to work after a 6-months break.
+* 09/08/2024 - Paper accepted on Galápagos Opuntia!! More to come soon.
 * 03/06/2024 - Yang et al is now published in EJLS "[Consistent accumulation of transposable elements in species of the Hawaiian Tetragnatha spiny-leg adaptive radiation across the archipelago chronosequence](https://academic.oup.com/evolinnean/article/3/1/kzae005/7681133)"
 * 03/06/2024 - De-Kayne et al is now published "[Why Do Some Lineages Radiate While Others Do Not? Perspectives for Future Research on Adaptive Radiations
 ]([https://academic.oup.com/evolinnean/article/3/1/kzae005/7681133](https://cshperspectives.cshlp.org/content/early/2024/04/30/cshperspect.a041448.abstract)"
