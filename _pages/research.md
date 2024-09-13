@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ### [See our group's website to learn more about our work](https://islandevolution.github.io/)
-###**Summary** I work on the intersection of ecology and evolution, with a strong focus on genomic data and on species inhabiting islands.
+**Summary** I work on the intersection of ecology and evolution, with a strong focus on genomic data and on species inhabiting islands.
 
 #### Biological systems I am currently focusing (have focused)
 1) Hawaiian _Tetragnatha_ spiders (I did a project with Rosemary Gillespie on this system). I have published [the genome of one species, finding that spiders have expansions associated with chemosensory](https://academic.oup.com/gbe/article/13/12/evab262/6443144), [worked on population genomics of the system, finding multiple genetic sources underlying repeated evolution](https://onlinelibrary.wiley.com/doi/10.1111/mec.17082). My former student, Heidi Yang ( now at UCLA ) is currently submitting a manuscript on transposable element evolution in this system.
