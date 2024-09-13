@@ -4,6 +4,7 @@ title: "News"
 permalink: /news/
 author_profile: true
 ---
+* 13/09/2024 - Just made a new website for our lab. I'll be keeping this one as my personal website, but check [our lab website](https://islandevolution.github.io/)
 * 11/09/2024 - The Research Council of Norway has awarded me a 'Young Researcher Talent' grant to work on diversification dynamics and genomics of Galápagos plants. A PhD position will be advertised soon!
 * 12/08/2024 - Geraldine Rueda-Muñoz and Diego Salazar have joined the lab as MSc students!
 * 12/08/2024 - Back to work after a 6-months break.
