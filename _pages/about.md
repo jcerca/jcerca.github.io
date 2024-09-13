@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-I am an evolutionary biologist working in the interface of evolutionary biology, genomics and ecology. I started a postdoc at the University of Oslo in January 2023.
+This is my personal page. For our [group page, please see here](https://islandevolution.github.io/). I am an evolutionary biologist working in the interface of evolutionary biology, genomics and ecology.
 
 ### Short bio
 
