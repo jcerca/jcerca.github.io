@@ -4,6 +4,7 @@ title: "News"
 permalink: /news/
 author_profile: true
 ---
+* 30/09/2024 - [PhD position available to work with me](https://www.jobbnorge.no/en/available-jobs/job/268466/phd-research-fellow-in-evolutionary-genomics-and-island-biology)
 * 13/09/2024 - Just made a new website for our lab. I'll be keeping this one as my personal website, but check [our lab website](https://islandevolution.github.io/)
 * 11/09/2024 - The Research Council of Norway has awarded me a 'Young Researcher Talent' grant to work on diversification dynamics and genomics of Galápagos plants. A PhD position will be advertised soon!
 * 12/08/2024 - Geraldine Rueda-Muñoz and Diego Salazar have joined the lab as MSc students!
