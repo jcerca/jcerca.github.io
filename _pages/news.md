@@ -5,6 +5,8 @@ permalink: /news/
 author_profile: true
 ---
 * 01/12/2024 - Wanyi Wei will be joining us in Oslo as a PhD student. Welcome!
+* 13/11/2024 - New paper out! [Understanding human-commensalism through an ecological and evolutionary framework
+](https://www.cell.com/trends/ecology-evolution/fulltext/S0169-5347(24)00257-X)
 * 02/10/2024 - [New preprint out on transposable elements and Scalesia where we test whether TEs are associated with hybridization (genomic shock hypothesis) or climatic niches](https://www.biorxiv.org/content/10.1101/2024.09.30.614436v1.full.pdf+html)
 * 30/09/2024 - [PhD position available to work with me](https://www.jobbnorge.no/en/available-jobs/job/268466/phd-research-fellow-in-evolutionary-genomics-and-island-biology)
 * 13/09/2024 - Just made a new website for our lab. I'll be keeping this one as my personal website, but check [our lab website](https://islandevolution.github.io/)
