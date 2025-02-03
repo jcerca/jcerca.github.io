@@ -5,7 +5,7 @@ permalink: /news/
 author_profile: true
 ---
 * 27/01/2025 - We have two PhD students advertised one on [Evolutionary genomics, Biogeography, genome evolution of Diplotaxis (Brassicaceae) in Cabo Verde](https://recruit.visma.com/spa/public/apply?guidAssignment=ea9a5a9a-dd7a-4722-89eb-faa90b8c94a7&description=True), and [Evolutionary genomics (with a focus on hybridization on Indo-Pacific birds)](https://recruit.visma.com/spa/public/apply?guidAssignment=96837826-746d-4e8c-844d-22f2d2ef7bf4&description=True)
-* 10/01/2025 - Paper on K-mers accepted!!
+* 10/01/2025 - New paper out - [k-mer approaches for biodiversity genomics](https://genome.cshlp.org/content/early/2025/01/31/gr.279452.124.full.pdf+html)
 * 01/01/2025 - I officially started as a group leader in the Swedish Museum of Natural Sciences
 * 01/12/2024 - Wanyi Wei will be joining us in Oslo as a PhD student. Welcome!
 * 13/11/2024 - New paper out! [Understanding human-commensalism through an ecological and evolutionary framework
